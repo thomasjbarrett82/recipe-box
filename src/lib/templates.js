@@ -234,6 +234,16 @@ function byline(r) {
   return parts.length ? `<p class="byline">${parts.join(' · ')}</p>` : '';
 }
 
+// One checklist per ingredient group; named groups ("### Crust") get a small heading.
+function ingredientLists(r) {
+  return r.ingredientGroups.map((g) =>
+    (g.name ? `<h3 class="ingredient-group">${esc(g.name)}</h3>\n      ` : '') +
+    `<ul class="ingredient-list">
+        ${g.items.map((line) => `<li><label><input type="checkbox"><span>${esc(line)}</span></label></li>`).join('\n        ')}
+      </ul>`
+  ).join('\n      ');
+}
+
 function nutrition(r) {
   if (!r.nutrition.length) {
     return `<div class="nutrition-head">
@@ -305,9 +315,7 @@ function recipePage(ctx, r, qrSvg) {
   <div class="recipe-body">
     <section class="ingredients" aria-labelledby="ing-h">
       <div class="section-head"><h2 id="ing-h">Ingredients</h2><span>Check off as you go</span></div>
-      <ul class="ingredient-list">
-        ${r.ingredients.map((line) => `<li><label><input type="checkbox"><span>${esc(line)}</span></label></li>`).join('\n        ')}
-      </ul>
+      ${ingredientLists(r)}
     </section>
     <section class="method" aria-labelledby="method-h">
       <h2 id="method-h">Method</h2>

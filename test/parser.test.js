@@ -143,3 +143,19 @@ test('structure problems are reported', () => {
   throwsLike(MIN.replace('- Tags: Breakfast', '- Author: Me'), /needs "- Tags: \.\.\."/);
   throwsLike(MIN.replace('Bread, toasted.', ''), /"## Description" is empty/);
 });
+
+test('ingredients can be grouped with ### headings; the flat list keeps every line in order', () => {
+  const r = parse(MIN.replace('- 1 slice bread', '- Salt\n\n### Crust\n\n- 1 cup flour\n- 1 stick butter\n\n### Filling\n\n- 2 eggs'));
+  assert.deepEqual(r.ingredients, ['Salt', '1 cup flour', '1 stick butter', '2 eggs']);
+  assert.deepEqual(r.ingredientGroups, [
+    { name: '', items: ['Salt'] },
+    { name: 'Crust', items: ['1 cup flour', '1 stick butter'] },
+    { name: 'Filling', items: ['2 eggs'] }
+  ]);
+  assert.deepEqual(parse(MIN).ingredientGroups, [{ name: '', items: ['1 slice bread'] }]);
+});
+
+test('an empty ingredient group is an error', () => {
+  throwsLike(MIN.replace('- 1 slice bread', '### Crust\n\n### Filling\n\n- 2 eggs'), /toast\.md:13: ingredient group "### Crust" has no ingredients/);
+  throwsLike(MIN.replace('- 1 slice bread', '- 2 eggs\n\n### Topping\n'), /ingredient group "### Topping" has no ingredients/);
+});

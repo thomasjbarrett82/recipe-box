@@ -10,7 +10,8 @@
     cookTimes: [{ text, label, value }],   // "Prep: 15 min" -> label "Prep", value "15 min"; text is as written
     totalMinutes,                     // from the "Total" line (or the only line), null if unreadable; for sorting
     cardTime,                         // value shown on result cards: the Total value, else the first line's value
-    ingredients: [string],            // plain text lines, as written
+    ingredients: [string],            // plain text lines, as written (every group, in order)
+    ingredientGroups: [{ name, items: [string] }],  // the same lines by "### Group" heading; name '' if ungrouped
     method,                           // Markdown text of the Method section
     notes,                            // Markdown text of the Notes section, or ''
     servingSize,                      // from Nutrition "Serving size", or ''
@@ -167,14 +168,35 @@
     var totalMinutes = totalLine ? minutesFrom(totalLine.value) : null;
     var cardTime = totalLine ? totalLine.value : (cookTimes[0] ? cookTimes[0].value : '');
 
-    // Ingredients: a bullet list of plain text lines.
+    // Ingredients: a bullet list of plain text lines, optionally split into groups by
+    // "### Group" headings (Crust, Filling...). Lines before the first heading form an unnamed group.
     var ingredients = [];
+    var ingredientGroups = [];
     nonEmpty('ingredients').forEach(function (l) {
-      if (/^[-*+]\s+/.test(l.text)) ingredients.push(stripMarker(l.text).trim());
-      else if (/^\s{2,}\S/.test(l.text) && ingredients.length) ingredients[ingredients.length - 1] += ' ' + l.text.trim();
-      else throw RecipeFormatError('Ingredients must be a bullet list, one ingredient per "- " line', file, l.n);
+      var g = /^###\s+(.+?)\s*#*\s*$/.exec(l.text);
+      if (g) {
+        var prev = ingredientGroups[ingredientGroups.length - 1];
+        if (prev && !prev.items.length) throw RecipeFormatError('ingredient group "### ' + prev.name + '" has no ingredients', file, prev.n);
+        ingredientGroups.push({ name: g[1], items: [], n: l.n });
+        return;
+      }
+      if (!ingredientGroups.length) ingredientGroups.push({ name: '', items: [], n: l.n });
+      var group = ingredientGroups[ingredientGroups.length - 1];
+      if (/^[-*+]\s+/.test(l.text)) {
+        var line = stripMarker(l.text).trim();
+        ingredients.push(line);
+        group.items.push(line);
+      } else if (/^\s{2,}\S/.test(l.text) && group.items.length) {
+        ingredients[ingredients.length - 1] += ' ' + l.text.trim();
+        group.items[group.items.length - 1] += ' ' + l.text.trim();
+      } else {
+        throw RecipeFormatError('Ingredients must be a bullet list, one ingredient per "- " line (with optional "### Group" headings)', file, l.n);
+      }
     });
     if (!ingredients.length) throw RecipeFormatError('"## Ingredients" is empty', file, sections.ingredients.start);
+    var lastGroup = ingredientGroups[ingredientGroups.length - 1];
+    if (!lastGroup.items.length) throw RecipeFormatError('ingredient group "### ' + lastGroup.name + '" has no ingredients', file, lastGroup.n);
+    ingredientGroups = ingredientGroups.map(function (grp) { return { name: grp.name, items: grp.items }; });
 
     var method = body('method');
     if (!method) throw RecipeFormatError('"## Method" is empty', file, sections.method.start);
@@ -202,6 +224,7 @@
       totalMinutes: totalMinutes,
       cardTime: cardTime,
       ingredients: ingredients,
+      ingredientGroups: ingredientGroups,
       method: method,
       notes: body('notes'),
       servingSize: servingSize,

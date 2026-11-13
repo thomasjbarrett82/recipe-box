@@ -189,6 +189,13 @@ button, input, select { font: inherit; color: inherit; }
 .section-head h2, .method h2 { margin: 0; font-size: 22px; font-weight: 700; }
 .section-head span { font-size: 13px; color: var(--muted); }
 .ingredient-list { list-style: none; margin: 12px 0 0; padding: 0; }
+/* Ingredient groups ("### Crust", "### Filling" in the recipe file) */
+.ingredient-group {
+  margin: 20px 0 0; padding-bottom: 6px; border-bottom: 1px solid var(--border);
+  font-size: 15px; font-weight: 700;
+}
+.section-head + .ingredient-group { margin-top: 14px; }
+.ingredient-group + .ingredient-list { margin-top: 4px; }
 .ingredient-list label { display: flex; align-items: center; gap: 12px; min-height: var(--touch); cursor: pointer; }
 .ingredient-list input { width: 20px; height: 20px; flex: none; accent-color: var(--accent); margin: 0; }
 .ingredient-list input:checked + span { text-decoration: line-through; color: var(--muted); }

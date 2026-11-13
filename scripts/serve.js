@@ -93,6 +93,13 @@ rebuild();
 if (WATCH) watch();
 else if (lastError) process.exit(1);
 
-http.createServer(handle).listen(PORT, () => {
-  console.log(`Preview: http://localhost:${PORT}${base}/  (Ctrl+C to stop)`);
-});
+http.createServer(handle)
+  .on('error', (e) => {
+    if (e.code !== 'EADDRINUSE') throw e;
+    console.error(`Port ${PORT} is already in use, probably by another "npm run serve" or "npm run dev".`);
+    console.error(`Stop that one, or use another port: PORT=3000 npm run dev  (PowerShell: $env:PORT=3000; npm run dev)`);
+    process.exit(1);
+  })
+  .listen(PORT, () => {
+    console.log(`Preview: http://localhost:${PORT}${base}/  (Ctrl+C to stop)`);
+  });

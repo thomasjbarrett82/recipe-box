@@ -36,7 +36,7 @@ A static website of recipes that is:
   - Output is plain static files that can be hosted anywhere.
 - **No JavaScript framework required.** The reference uses plain JavaScript. Recipe and tag pages must work without JavaScript (content is in the HTML). JavaScript only adds search, theme toggle, copy/share, the wake lock switch and the tag-page filter.
 - **Font:** DM Sans, weights 400, 500, 600 and 700. Self-host it in production rather than calling Google Fonts at runtime.
-- **Units:** all ingredient quantities are metric.
+- **Units:** ingredient quantities are metric first, with the US amount in brackets: `240 ml (1 cup) milk` (changed from metric-only when the old recipe collection was imported).
 
 ## 3. URLs
 

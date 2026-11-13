@@ -130,6 +130,18 @@ test('a recipe photo in static/ is copied and used', (t) => {
   assert.match(html, /<meta property="og:image" content="https:\/\/recipes\.example\.org\/images\/buckle\.jpg">/);
 });
 
+test('ingredient groups render as headed checklists', (t) => {
+  const root = project((dir) => {
+    const g = path.join(dir, 'content', 'recipes', 'blueberry-buckle.md');
+    fs.writeFileSync(g, fs.readFileSync(g, 'utf8').replace('## Ingredients\n', '## Ingredients\n\n### Cake\n'));
+  });
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  build({ root, siteUrl: 'https://recipes.example.org' });
+  const html = read(root, 'r/blueberry-buckle/index.html');
+  assert.match(html, /<h3 class="ingredient-group">Cake<\/h3>\s*<ul class="ingredient-list">/);
+  assert.doesNotMatch(read(root, 'r/wild-rice-soup/index.html'), /ingredient-group/);
+});
+
 test('an invalid site URL is reported', (t) => {
   const root = project();
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));

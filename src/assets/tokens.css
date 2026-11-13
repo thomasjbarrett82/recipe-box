@@ -1,0 +1,87 @@
+/*
+  Recipe Box design tokens (Search First layout, Solarized-based).
+  Theme resolution:
+    1. <html data-theme="light|dark"> set by the visitor's toggle (saved in localStorage) wins.
+    2. Otherwise the OS setting (prefers-color-scheme) decides.
+  Print never uses these themes: see print.css.
+*/
+
+:root {
+  --font: 'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --radius-pill: 999px;
+  --radius-card: 16px;
+  --radius-step: 18px;
+  --radius-panel: 20px;
+  --radius-thumb: 12px;
+  --radius-hero: 24px;
+
+  --touch: 44px;
+  --container: 960px;
+  --container-wide: 1120px;
+
+  /* Light (Solarized Light, contrast-adjusted) */
+  color-scheme: light;
+  --bg: #fdf6e3;
+  --surface: #fdf6e3;
+  --surface2: #eee8d5;
+  --chip: #eee8d5;
+  --chip-text: #073642;
+  --text: #073642;
+  --muted: #586e75;
+  --border: #93a1a1;
+  --accent: #b64314;
+  --on-accent: #fdf6e3;
+  --strong: #073642;
+  --on-strong: #fdf6e3;
+  --field: #fdf6e3;
+  --field-border: #586e75;
+
+  --swatch-0: #eddeb1; --swatch-1: #f2d0b6; --swatch-2: #f6cbbb; --swatch-3: #cededf;
+  --swatch-4: #f4ccce; --swatch-5: #ddd9dc; --swatch-6: #e3e2b1; --swatch-7: #cfe3d2;
+}
+
+/* Dark (Solarized Dark, deepened ground, contrast-adjusted) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #001e26;
+    --surface: #001e26;
+    --surface2: #073642;
+    --chip: #073642;
+    --chip-text: #eee8d5;
+    --text: #eee8d5;
+    --muted: #93a1a1;
+    --border: #657b83;
+    --accent: #eb7747;
+    --on-accent: #001e26;
+    --strong: #eee8d5;
+    --on-strong: #001e26;
+    --field: #001e26;
+    --field-border: #93a1a1;
+
+    --swatch-0: #333c1b; --swatch-1: #392b22; --swatch-2: #3e2429; --swatch-3: #0b3d56;
+    --swatch-4: #3b2540; --swatch-5: #1e3552; --swatch-6: #25401b; --swatch-7: #0c4346;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #001e26;
+  --surface: #001e26;
+  --surface2: #073642;
+  --chip: #073642;
+  --chip-text: #eee8d5;
+  --text: #eee8d5;
+  --muted: #93a1a1;
+  --border: #657b83;
+  --accent: #eb7747;
+  --on-accent: #001e26;
+  --strong: #eee8d5;
+  --on-strong: #001e26;
+  --field: #001e26;
+  --field-border: #93a1a1;
+
+  --swatch-0: #333c1b; --swatch-1: #392b22; --swatch-2: #3e2429; --swatch-3: #0b3d56;
+  --swatch-4: #3b2540; --swatch-5: #1e3552; --swatch-6: #25401b; --swatch-7: #0c4346;
+}

@@ -1,0 +1,19 @@
+{
+  "$comment": "Controlled tag list. Order here is the chip order on the site. A recipe tag not listed here fails the build.",
+  "tags": [
+    "Breakfast", 
+    "Dinner", 
+    "Dessert", 
+    "Dutch oven", 
+    "Favorite",
+    "High fiber",
+    "Minnesota",
+    "Quick", 
+    "Soup", 
+    "Spicy",
+    "Stew",
+    "Slow cooker",
+    "Vegan",
+    "Vegetarian"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "$description": "Recipe Box design tokens. Search First layout, Solarized-based palette. Light and dark are screen themes; print is always plain black on white.",
+  "font": {
+    "family": "'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "source": "https://fonts.google.com/specimen/DM+Sans",
+    "weights": [400, 500, 600, 700]
+  },
+  "color": {
+    "light": {
+      "bg":          { "value": "#fdf6e3", "note": "Solarized base3" },
+      "surface":     { "value": "#fdf6e3", "note": "cards and panels; outlined, not filled" },
+      "surface2":    { "value": "#eee8d5", "note": "Solarized base2; buttons, chips, badges" },
+      "chip":        { "value": "#eee8d5" },
+      "chipText":    { "value": "#073642", "note": "Solarized base02" },
+      "text":        { "value": "#073642", "note": "Solarized base02; 12.1:1 on bg" },
+      "muted":       { "value": "#586e75", "note": "Solarized base01; 5.0:1 on bg. Do not place on surface2 (4.4:1)" },
+      "border":      { "value": "#93a1a1", "note": "Solarized base1" },
+      "accent":      { "value": "#b64314", "note": "Solarized orange #cb4b16 darkened to pass 4.5:1 (5.1:1 on bg)" },
+      "onAccent":    { "value": "#fdf6e3" },
+      "strong":      { "value": "#073642", "note": "time and servings pills" },
+      "onStrong":    { "value": "#fdf6e3" },
+      "field":       { "value": "#fdf6e3" },
+      "fieldBorder": { "value": "#586e75" }
+    },
+    "dark": {
+      "bg":          { "value": "#001e26", "note": "Solarized base03 #002b36 deepened for contrast" },
+      "surface":     { "value": "#001e26" },
+      "surface2":    { "value": "#073642", "note": "Solarized base02" },
+      "chip":        { "value": "#073642" },
+      "chipText":    { "value": "#eee8d5", "note": "Solarized base2" },
+      "text":        { "value": "#eee8d5", "note": "Solarized base2; 14.1:1 on bg" },
+      "muted":       { "value": "#93a1a1", "note": "Solarized base1; 6.5:1 on bg, 4.9:1 on surface2" },
+      "border":      { "value": "#657b83", "note": "Solarized base00; 3.9:1 on bg" },
+      "accent":      { "value": "#eb7747", "note": "Solarized orange lightened to pass 4.5:1 (6.0:1 on bg)" },
+      "onAccent":    { "value": "#001e26" },
+      "strong":      { "value": "#eee8d5" },
+      "onStrong":    { "value": "#001e26" },
+      "field":       { "value": "#001e26" },
+      "fieldBorder": { "value": "#93a1a1" }
+    },
+    "print": {
+      "bg":     { "value": "#ffffff" },
+      "text":   { "value": "#18181b" },
+      "muted":  { "value": "#52525b" },
+      "rule":   { "value": "#d4d4d8" }
+    },
+    "photoPlaceholder": {
+      "$description": "Until real photos exist, each recipe gets a swatch: one Solarized accent mixed into the background (22% light, 28% dark). Index is derived from the recipe slug (swatchFor in reference/assets/recipe-parser.js).",
+      "accents": ["#b58900", "#cb4b16", "#dc322f", "#268bd2", "#d33682", "#6c71c4", "#859900", "#2aa198"],
+      "light":   ["#eddeb1", "#f2d0b6", "#f6cbbb", "#cededf", "#f4ccce", "#ddd9dc", "#e3e2b1", "#cfe3d2"],
+      "dark":    ["#333c1b", "#392b22", "#3e2429", "#0b3d56", "#3b2540", "#1e3552", "#25401b", "#0c4346"]
+    }
+  },
+  "type": {
+    "homeTitle":    { "size": "44px", "weight": 700, "letterSpacing": "-0.03em", "lineHeight": 1.1 },
+    "recipeTitle":  { "size": "clamp(30px, 5vw, 52px)", "weight": 700, "letterSpacing": "-0.03em", "lineHeight": 1.05 },
+    "tagTitle":     { "size": "44px", "weight": 700, "letterSpacing": "-0.03em" },
+    "sectionTitle": { "size": "22px (20px mobile)", "weight": 700 },
+    "cardTitle":    { "size": "18px", "weight": 700 },
+    "body":         { "size": "16px", "lineHeight": 1.5 },
+    "stepText":     { "size": "17px (16px mobile)", "lineHeight": 1.55 },
+    "lede":         { "size": "18px (16px mobile)", "lineHeight": 1.55 },
+    "small":        { "size": "13-14px" },
+    "pill":         { "size": "12-14px", "weight": "500 (tag) / 600 (meta)" }
+  },
+  "radius": { "pill": "999px", "card": "16px", "step": "18px", "panel": "20px", "thumb": "12px", "hero": "24px" },
+  "size": {
+    "touchTarget": "44px minimum",
+    "homeSearchHeight": "64px",
+    "headerSearchHeight": "44px",
+    "buttonHeight": "48px",
+    "thumbList": "88px",
+    "thumbHero": "min(320px, 100%), square",
+    "containerHomeTag": "960px",
+    "containerRecipe": "1120px",
+    "mobileBreakpoint": "640px"
+  }
+}

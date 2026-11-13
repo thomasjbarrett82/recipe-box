@@ -1,0 +1,20 @@
+{
+  "$comment": "url: the public address of the site, used for share links, QR codes and Open Graph tags. A path is allowed (https://you.github.io/recipe-box) and all links will include it. tags: the controlled tag list. Order here is the chip order on the site. A recipe tag not listed here fails the build. Tags no recipe uses yet are not shown.",
+  "url": "https://recipes.tbarrett.org",
+  "tags": [
+    "Breakfast",
+    "Dinner",
+    "Dessert",
+    "Dutch oven",
+    "Favorite",
+    "High fiber",
+    "Minnesota",
+    "Quick",
+    "Soup",
+    "Spicy",
+    "Stew",
+    "Slow cooker",
+    "Vegan",
+    "Vegetarian"
+  ]
+}

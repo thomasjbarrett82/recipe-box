@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Dutch oven
+- Image: /images/sausage-tortellini-soup.jpg
 - Serves: 8
 
 ## Description

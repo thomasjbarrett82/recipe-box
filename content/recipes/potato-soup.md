@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup
+- Image: /images/potato-soup.jpg
 - Serves: 9
 
 ## Description

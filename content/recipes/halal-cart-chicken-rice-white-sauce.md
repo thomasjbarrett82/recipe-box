@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Dutch oven
+- Image: /images/halal-cart-chicken-rice-white-sauce.jpg
 - Serves: 6
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, Vegan, High fiber
 - Source: Indian Healthy Recipes
+- Image: /images/aloo-green-beans.jpg
 - Serves: 4
 
 ## Description

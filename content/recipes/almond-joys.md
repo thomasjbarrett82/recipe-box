@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: @bdylanhollis
+- Image: /images/almond-joys.jpg
 - Serves: 48
 
 ## Description

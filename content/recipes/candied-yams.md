@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Vegetarian, High fiber, Holiday
+- Image: /images/candied-yams.jpg
 - Serves: 8
 
 ## Description

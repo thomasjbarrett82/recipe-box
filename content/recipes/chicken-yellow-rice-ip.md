@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Instant Pot, High fiber
+- Image: /images/chicken-yellow-rice-ip.jpg
 - Serves: 6
 
 ## Description

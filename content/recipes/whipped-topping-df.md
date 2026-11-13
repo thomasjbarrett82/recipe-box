@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Vegetarian, Vegan, Dairy free
+- Image: /images/whipped-topping-df.jpg
 - Serves: 10
 
 ## Description

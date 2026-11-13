@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Vegetarian
 - Source: Tara
+- Image: /images/pancakes.jpg
 - Serves: 4
 
 ## Description

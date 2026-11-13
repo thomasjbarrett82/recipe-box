@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick
 - Source: Tara
+- Image: /images/caramel-popcorn.jpg
 - Serves: 14
 
 ## Description

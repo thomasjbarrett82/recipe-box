@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Quick
+- Image: /images/chocolate-chip-cookies.jpg
 - Serves: 20
 
 ## Description

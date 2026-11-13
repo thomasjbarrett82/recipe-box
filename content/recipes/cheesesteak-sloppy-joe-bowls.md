@@ -4,6 +4,7 @@
 
 - Tags: Main, High fiber
 - Source: Josh Cortis
+- Image: /images/cheesesteak-sloppy-joe-bowls.jpg
 - Serves: 5
 
 ## Description

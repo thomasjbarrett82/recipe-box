@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup
+- Image: /images/chicken-dumplings.jpg
 - Serves: 6
 
 ## Description

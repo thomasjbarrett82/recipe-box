@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta
+- Image: /images/lasagna.jpg
 - Serves: 12
 
 ## Description

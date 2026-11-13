@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/cheesy-chicken-pot-pie.jpg
 - Serves: 6
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side
 - Source: copykat
+- Image: /images/raising-canes-sauce.jpg
 - Serves: 13
 
 ## Description

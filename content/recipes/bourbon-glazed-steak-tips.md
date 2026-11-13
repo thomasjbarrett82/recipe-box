@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/bourbon-glazed-steak-tips.jpg
 - Serves: 6
 
 ## Description

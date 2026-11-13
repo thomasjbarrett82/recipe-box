@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/one-pot-chicken-rice.jpg
 - Serves: 5
 
 ## Description

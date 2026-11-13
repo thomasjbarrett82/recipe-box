@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Minnesota
+- Image: /images/graham-cracker-pie.jpg
 - Serves: 8
 
 ## Description

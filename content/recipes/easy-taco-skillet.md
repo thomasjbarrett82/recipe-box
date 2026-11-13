@@ -4,6 +4,7 @@
 
 - Tags: Main, High fiber
 - Source: Taste of Home
+- Image: /images/easy-taco-skillet.jpg
 - Serves: 6
 
 ## Description

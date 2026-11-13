@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Vegetarian, Holiday
+- Image: /images/monkey-bread.jpg
 - Serves: 12
 
 ## Description

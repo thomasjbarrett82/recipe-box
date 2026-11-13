@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/orange-delight-cookies.jpg
 - Serves: 24
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Spicy, Dutch oven
+- Image: /images/general-tsos-chicken.jpg
 - Serves: 4
 
 ## Description

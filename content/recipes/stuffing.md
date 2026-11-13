@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Holiday
+- Image: /images/stuffing.jpg
 - Serves: 12
 
 ## Description

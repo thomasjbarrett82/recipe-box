@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Spicy, Grill, Vegetarian, High fiber
+- Image: /images/portabella-burgers.jpg
 - Serves: 4
 
 ## Description

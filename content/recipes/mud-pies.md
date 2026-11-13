@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/mud-pies.jpg
 - Serves: 18
 
 ## Description

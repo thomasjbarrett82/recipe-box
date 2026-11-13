@@ -4,6 +4,7 @@
 
 - Tags: Drink, Holiday
 - Source: @bdylanhollis
+- Image: /images/eggnog.jpg
 - Serves: 9
 
 ## Description

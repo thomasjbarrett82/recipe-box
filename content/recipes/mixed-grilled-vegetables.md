@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Quick, Grill, Vegetarian, Vegan
+- Image: /images/mixed-grilled-vegetables.jpg
 - Serves: 4
 
 ## Description

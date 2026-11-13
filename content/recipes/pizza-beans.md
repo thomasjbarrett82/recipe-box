@@ -4,6 +4,7 @@
 
 - Tags: Main, High fiber
 - Source: Subversive Table
+- Image: /images/pizza-beans.jpg
 - Serves: 6
 
 ## Description

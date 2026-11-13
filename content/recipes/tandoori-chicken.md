@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/tandoori-chicken.jpg
 - Serves: 4
 
 ## Description

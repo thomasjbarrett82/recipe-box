@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick, Holiday
 - Source: Tara
+- Image: /images/chex-party-mix.jpg
 - Serves: 12
 
 ## Description

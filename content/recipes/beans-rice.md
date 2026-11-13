@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Instant Pot, High fiber
+- Image: /images/beans-rice.jpg
 - Serves: 8
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Dutch oven, Minnesota
+- Image: /images/goulash-supreme.jpg
 - Serves: 8
 
 ## Description

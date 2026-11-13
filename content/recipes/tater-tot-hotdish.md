@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Minnesota
+- Image: /images/tater-tot-hotdish.jpg
 - Serves: 8
 
 ## Description

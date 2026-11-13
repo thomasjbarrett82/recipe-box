@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Instant Pot, High fiber
+- Image: /images/black-beans-ip.jpg
 - Serves: 14
 
 ## Description

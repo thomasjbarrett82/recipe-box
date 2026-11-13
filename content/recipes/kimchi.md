@@ -4,6 +4,7 @@
 
 - Tags: Side, Spicy
 - Source: <https://mykoreankitchen.com/kimchi-recipe/>
+- Image: /images/kimchi.jpg
 - Serves: 12
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Holiday
 - Source: Tara
+- Image: /images/cheeseball.jpg
 - Serves: 20
 
 ## Description

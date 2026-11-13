@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Spicy, Dutch oven, High fiber
+- Image: /images/red-beans-and-rice.jpg
 - Serves: 8
 
 ## Description

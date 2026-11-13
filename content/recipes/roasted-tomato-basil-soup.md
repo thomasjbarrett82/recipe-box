@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Slow cooker, Vegetarian
+- Image: /images/roasted-tomato-basil-soup.jpg
 - Serves: 6
 
 ## Description

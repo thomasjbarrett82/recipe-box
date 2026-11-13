@@ -4,6 +4,7 @@
 
 - Tags: Drink, Quick, Holiday
 - Source: Judy Munson
+- Image: /images/grandma-millies-tea.jpg
 - Serves: 28
 
 ## Description

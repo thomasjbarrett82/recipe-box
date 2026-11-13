@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Source: Two Sleevers
+- Image: /images/butter-chicken.jpg
 - Serves: 4
 
 ## Description

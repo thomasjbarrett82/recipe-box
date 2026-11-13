@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta
+- Image: /images/pizza-casserole.jpg
 - Serves: 8
 
 ## Description

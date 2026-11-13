@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Vegetarian, Holiday
+- Image: /images/mashed-potatoes.jpg
 - Serves: 8
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, High fiber
 - Source: Tom
+- Image: /images/collard-greens.jpg
 - Serves: 4
 
 ## Description

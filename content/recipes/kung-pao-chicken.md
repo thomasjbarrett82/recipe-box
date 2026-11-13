@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Spicy
+- Image: /images/kung-pao-chicken.jpg
 - Serves: 6
 
 ## Description

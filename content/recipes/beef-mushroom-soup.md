@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Dutch oven, Minnesota
+- Image: /images/beef-mushroom-soup.jpg
 - Serves: 6
 
 ## Description

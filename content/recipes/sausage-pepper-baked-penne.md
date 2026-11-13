@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Spicy
+- Image: /images/sausage-pepper-baked-penne.jpg
 - Serves: 6
 
 ## Description

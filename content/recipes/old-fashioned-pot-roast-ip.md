@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Instant Pot
+- Image: /images/old-fashioned-pot-roast-ip.jpg
 - Serves: 7
 
 ## Description

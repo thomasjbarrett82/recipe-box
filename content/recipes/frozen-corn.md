@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, Vegan, Minnesota
 - Source: Grandma Judy Munson
+- Image: /images/frozen-corn.jpg
 - Serves: 32
 
 ## Description

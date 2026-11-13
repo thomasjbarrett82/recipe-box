@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Instant Pot, High fiber
+- Image: /images/beef-cabbage-stew.jpg
 - Serves: 6
 
 ## Description

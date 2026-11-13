@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/apple-cider-cookies.jpg
 - Serves: 18
 
 ## Description

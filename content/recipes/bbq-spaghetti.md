@@ -4,6 +4,7 @@
 
 - Tags: Pasta
 - Source: The Neelys
+- Image: /images/bbq-spaghetti.jpg
 - Serves: 8
 
 ## Description

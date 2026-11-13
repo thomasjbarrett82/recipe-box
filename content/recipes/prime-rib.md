@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill, Smoker, Holiday
 - Source: Serious Eats
+- Image: /images/prime-rib.jpg
 - Serves: About 1 per 340 g (¾ lb) of bone-in roast
 
 ## Description

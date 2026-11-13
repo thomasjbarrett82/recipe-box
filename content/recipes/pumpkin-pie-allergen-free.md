@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Gluten free, Dairy free, Holiday
+- Image: /images/pumpkin-pie-allergen-free.jpg
 - Serves: 8
 
 ## Description

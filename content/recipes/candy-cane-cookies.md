@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: Tara
+- Image: /images/candy-cane-cookies.jpg
 - Serves: 24
 
 ## Description

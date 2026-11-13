@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Drink, Quick, Holiday
+- Image: /images/russian-tea.jpg
 - Serves: 28
 
 ## Description

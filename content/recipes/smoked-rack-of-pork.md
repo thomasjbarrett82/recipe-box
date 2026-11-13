@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Grill, Smoker, Holiday
+- Image: /images/smoked-rack-of-pork.jpg
 - Serves: 1 per rib (usually 8)
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread, Vegetarian, Vegan
+- Image: /images/subway-bread.jpg
 - Serves: 8
 
 ## Description

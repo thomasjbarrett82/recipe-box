@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick
+- Image: /images/chicken-stir-fry.jpg
 - Serves: 6
 
 ## Description

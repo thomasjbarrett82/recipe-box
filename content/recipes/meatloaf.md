@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Source: Pillsbury Cookbook
+- Image: /images/meatloaf.jpg
 - Serves: 8
 
 ## Description

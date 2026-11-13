@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick, Spicy
 - Source: DJU
+- Image: /images/korean-marinade-dipping-sauce.jpg
 - Serves: 26
 
 ## Description

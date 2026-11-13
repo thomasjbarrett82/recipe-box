@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Spicy, Dutch oven, High fiber
+- Image: /images/white-chicken-chili.jpg
 - Serves: 10
 
 ## Description

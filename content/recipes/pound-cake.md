@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/pound-cake.jpg
 - Serves: 20
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: @bdylanhollis
+- Image: /images/christmas-crack.jpg
 - Serves: 20
 
 ## Description

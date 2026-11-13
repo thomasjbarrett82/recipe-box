@@ -4,6 +4,7 @@
 
 - Tags: Side, Spicy, Vegetarian, Vegan, High fiber
 - Source: @whatinthechef on Instagram
+- Image: /images/sauteed-cabbage.jpg
 - Serves: 4
 
 ## Description

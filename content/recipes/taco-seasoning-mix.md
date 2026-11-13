@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick, Vegetarian, Vegan
+- Image: /images/taco-seasoning-mix.jpg
 - Serves: 5
 
 ## Description

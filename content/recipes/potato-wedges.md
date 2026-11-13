@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Vegetarian, High fiber
+- Image: /images/potato-wedges.jpg
 - Serves: 4
 
 ## Description

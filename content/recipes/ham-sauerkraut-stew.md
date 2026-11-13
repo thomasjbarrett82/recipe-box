@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Dutch oven, High fiber
+- Image: /images/ham-sauerkraut-stew.jpg
 - Serves: 5
 
 ## Description

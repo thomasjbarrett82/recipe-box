@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Quick, Vegetarian
+- Image: /images/waffles.jpg
 - Serves: 4
 
 ## Description

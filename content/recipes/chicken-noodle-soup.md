@@ -4,6 +4,7 @@
 
 - Tags: Soup
 - Source: Adam Ragusea
+- Image: /images/chicken-noodle-soup.jpg
 - Serves: 10
 
 ## Description

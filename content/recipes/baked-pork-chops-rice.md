@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/baked-pork-chops-rice.jpg
 - Serves: 6
 
 ## Description

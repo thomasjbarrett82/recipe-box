@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Minnesota
+- Image: /images/tuna-casserole.jpg
 - Serves: 8
 
 ## Description

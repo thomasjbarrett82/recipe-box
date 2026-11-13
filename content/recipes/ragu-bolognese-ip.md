@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Instant Pot
+- Image: /images/ragu-bolognese-ip.jpg
 - Serves: 12
 
 ## Description

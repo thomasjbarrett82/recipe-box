@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Slow cooker, High fiber
+- Image: /images/minestrone.jpg
 - Serves: 5
 
 ## Description

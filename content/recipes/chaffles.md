@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Vegetarian
 - Source: Tom
+- Image: /images/chaffles.jpg
 - Serves: 3
 
 ## Description

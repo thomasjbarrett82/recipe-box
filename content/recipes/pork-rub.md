@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick
+- Image: /images/pork-rub.jpg
 - Serves: 17
 
 ## Description

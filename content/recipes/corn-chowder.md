@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Spicy, Vegetarian, High fiber
+- Image: /images/corn-chowder.jpg
 - Serves: 4
 
 ## Description

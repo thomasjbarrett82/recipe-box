@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Vegetarian, High fiber
 - Source: Tara
+- Image: /images/blueberry-muffins.jpg
 - Serves: 12
 
 ## Description

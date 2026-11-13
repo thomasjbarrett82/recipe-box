@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/tuna-steaks.jpg
 - Serves: 4
 
 ## Description

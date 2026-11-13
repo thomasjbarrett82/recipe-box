@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: Tom
+- Image: /images/oreo-bombs.jpg
 - Serves: 30
 
 ## Description

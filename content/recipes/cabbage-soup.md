@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Dutch oven, High fiber
+- Image: /images/cabbage-soup.jpg
 - Serves: 10
 
 ## Description

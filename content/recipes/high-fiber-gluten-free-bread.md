@@ -4,6 +4,7 @@
 
 - Tags: Bread, Gluten free
 - Source: hallysdailylife
+- Image: /images/high-fiber-gluten-free-bread.jpg
 - Serves: 12
 
 ## Description

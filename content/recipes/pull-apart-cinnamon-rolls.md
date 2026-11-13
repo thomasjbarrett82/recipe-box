@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Vegetarian
+- Image: /images/pull-apart-cinnamon-rolls.jpg
 - Serves: 12
 
 ## Description

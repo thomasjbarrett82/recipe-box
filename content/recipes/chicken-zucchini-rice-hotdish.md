@@ -4,6 +4,7 @@
 
 - Tags: Main, Minnesota
 - Source: All Recipes
+- Image: /images/chicken-zucchini-rice-hotdish.jpg
 - Serves: 8
 
 ## Description

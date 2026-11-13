@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Drink, Holiday
+- Image: /images/christmas-special-beer.jpg
 - Serves: About 50
 
 ## Description

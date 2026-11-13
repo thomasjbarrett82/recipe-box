@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Quick, Vegetarian, Vegan, High fiber
+- Image: /images/pan-fried-beans-wilted-greens.jpg
 - Serves: 4
 
 ## Description

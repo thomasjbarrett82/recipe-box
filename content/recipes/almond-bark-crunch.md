@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: Tara
+- Image: /images/almond-bark-crunch.jpg
 - Serves: 16
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Slow cooker
+- Image: /images/chicken-mushroom-stew.jpg
 - Serves: 4
 
 ## Description

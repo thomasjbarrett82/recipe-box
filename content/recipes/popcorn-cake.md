@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Holiday, Minnesota
+- Image: /images/popcorn-cake.jpg
 - Serves: 16
 
 ## Description

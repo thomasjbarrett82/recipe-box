@@ -4,6 +4,7 @@
 
 - Tags: Stew, Dutch oven, Holiday
 - Source: Adam Ragusea
+- Image: /images/beef-bourguignon.jpg
 - Serves: 8
 
 ## Description

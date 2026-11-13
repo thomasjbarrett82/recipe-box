@@ -4,6 +4,7 @@
 
 - Tags: Bread, Vegetarian, Vegan, Gluten free
 - Source: Tom
+- Image: /images/focaccia-bread-gf.jpg
 - Serves: 8
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick, High fiber
+- Image: /images/fish-tacos.jpg
 - Serves: 4
 
 ## Description

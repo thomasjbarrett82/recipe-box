@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Minnesota
+- Image: /images/chicken-broccoli-hotdish.jpg
 - Serves: 6
 
 ## Description

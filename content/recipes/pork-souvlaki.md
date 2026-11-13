@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill
 - Source: Serious Eats
+- Image: /images/pork-souvlaki.jpg
 - Serves: 4
 
 ## Description

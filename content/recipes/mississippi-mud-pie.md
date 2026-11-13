@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: Tom
+- Image: /images/mississippi-mud-pie.jpg
 - Serves: 12
 
 ## Description

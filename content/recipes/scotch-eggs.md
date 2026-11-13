@@ -4,6 +4,7 @@
 
 - Tags: Appetizer
 - Source: ?
+- Image: /images/scotch-eggs.jpg
 - Serves: 6
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Vegetarian
 - Source: Judy Munson
+- Image: /images/granola.jpg
 - Serves: 16
 
 ## Description

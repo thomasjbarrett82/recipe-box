@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Minnesota
+- Image: /images/wild-rice-hotdish.jpg
 - Serves: 6
 
 ## Description

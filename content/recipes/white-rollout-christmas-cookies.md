@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: Tara
+- Image: /images/white-rollout-christmas-cookies.jpg
 - Serves: 24
 
 ## Description

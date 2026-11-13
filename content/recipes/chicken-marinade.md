@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/chicken-marinade.jpg
 - Serves: 6
 
 ## Description

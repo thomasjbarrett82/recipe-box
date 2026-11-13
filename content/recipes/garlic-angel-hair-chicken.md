@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta
+- Image: /images/garlic-angel-hair-chicken.jpg
 - Serves: 6
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/shepherds-pie.jpg
 - Serves: 6
 
 ## Description

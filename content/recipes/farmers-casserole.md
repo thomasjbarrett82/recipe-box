@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Holiday
+- Image: /images/farmers-casserole.jpg
 - Serves: 8
 
 ## Description

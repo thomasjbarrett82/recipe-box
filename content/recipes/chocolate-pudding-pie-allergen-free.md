@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/chocolate-pudding-pie-allergen-free.jpg
 - Serves: 8
 
 ## Description

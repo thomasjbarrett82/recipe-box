@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Appetizer, Vegetarian, Holiday
+- Image: /images/stuffed-mushrooms.jpg
 - Serves: 6
 
 ## Description

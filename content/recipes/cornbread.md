@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread
+- Image: /images/cornbread.jpg
 - Serves: 9
 
 ## Description

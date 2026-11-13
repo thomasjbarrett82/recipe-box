@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian
 - Source: Tom
+- Image: /images/brown-sugar-glazed-carrots.jpg
 - Serves: 6
 
 ## Description

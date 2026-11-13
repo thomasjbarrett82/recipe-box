@@ -4,6 +4,7 @@
 
 - Tags: Main, Instant Pot
 - Source: Two Sleevers
+- Image: /images/butter-chicken-ip.jpg
 - Serves: 4
 
 ## Description

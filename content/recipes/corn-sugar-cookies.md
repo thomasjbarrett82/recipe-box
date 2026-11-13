@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/corn-sugar-cookies.jpg
 - Serves: 12
 
 ## Description

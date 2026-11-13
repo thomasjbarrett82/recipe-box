@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Gluten free
+- Image: /images/peanut-butter-cookies-soft-gf.jpg
 - Serves: 38
 
 ## Description

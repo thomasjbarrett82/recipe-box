@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Spicy
+- Image: /images/frogmore-stew.jpg
 - Serves: 10
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Quick, Vegetarian
+- Image: /images/banana-bread-waffles.jpg
 - Serves: 7
 
 ## Description

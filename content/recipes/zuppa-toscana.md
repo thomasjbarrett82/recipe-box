@@ -4,6 +4,7 @@
 
 - Tags: Soup, Dutch oven, High fiber
 - Source: Tom
+- Image: /images/zuppa-toscana.jpg
 - Serves: 7
 
 ## Description

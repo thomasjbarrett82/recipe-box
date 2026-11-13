@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Vegetarian
+- Image: /images/frittata.jpg
 - Serves: 4
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Instant Pot, High fiber
+- Image: /images/pasta-fagioli-ip.jpg
 - Serves: 6
 
 ## Description

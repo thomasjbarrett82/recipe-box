@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: Tara
+- Image: /images/black-bottom-cupcakes.jpg
 - Serves: 18
 
 ## Description

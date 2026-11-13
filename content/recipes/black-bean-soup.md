@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, High fiber
+- Image: /images/black-bean-soup.jpg
 - Serves: 10
 
 ## Description

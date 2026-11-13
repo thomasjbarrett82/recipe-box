@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread
+- Image: /images/banana-bread.jpg
 - Serves: 20
 
 ## Description

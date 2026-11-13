@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Drink, Quick, Holiday
+- Image: /images/hot-chocolate-mix.jpg
 - Serves: 32
 
 ## Description

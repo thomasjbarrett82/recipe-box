@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Quick, Vegetarian, Gluten free, Dairy free
+- Image: /images/waffles-paleo.jpg
 - Serves: 2
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Quick, Vegetarian, Vegan, Dairy free
+- Image: /images/mac-and-cheese-df.jpg
 - Serves: 6
 
 ## Description

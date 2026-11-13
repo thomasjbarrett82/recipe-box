@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick, High fiber
 - Source: Instagram
+- Image: /images/black-bean-tacos.jpg
 - Serves: 6
 
 ## Description

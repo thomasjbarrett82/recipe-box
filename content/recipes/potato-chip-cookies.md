@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/potato-chip-cookies.jpg
 - Serves: 24
 
 ## Description

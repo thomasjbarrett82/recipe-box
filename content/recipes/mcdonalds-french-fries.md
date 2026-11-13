@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side
+- Image: /images/mcdonalds-french-fries.jpg
 - Serves: 4
 
 ## Description

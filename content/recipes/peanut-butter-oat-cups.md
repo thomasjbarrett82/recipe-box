@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: TikTok
+- Image: /images/peanut-butter-oat-cups.jpg
 - Serves: 8
 
 ## Description

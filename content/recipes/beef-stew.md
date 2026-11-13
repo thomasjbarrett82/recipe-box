@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Dutch oven, High fiber
+- Image: /images/beef-stew.jpg
 - Serves: 8
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Quick, Vegetarian, Gluten free
+- Image: /images/mac-and-cheese-gf.jpg
 - Serves: 6
 
 ## Description

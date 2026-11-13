@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, High fiber
+- Image: /images/sausage-spinach-penne.jpg
 - Serves: 6
 
 ## Description

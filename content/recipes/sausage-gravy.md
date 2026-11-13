@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Quick
+- Image: /images/sausage-gravy.jpg
 - Serves: 8
 
 ## Description

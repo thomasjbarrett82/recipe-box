@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread
+- Image: /images/corn-bread-pie.jpg
 - Serves: 6
 
 ## Description

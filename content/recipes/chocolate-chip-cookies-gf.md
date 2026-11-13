@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Gluten free
 - Source: My Gluten-Free Kitchen
+- Image: /images/chocolate-chip-cookies-gf.jpg
 - Serves: 18
 
 ## Description

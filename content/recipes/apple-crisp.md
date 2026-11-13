@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, High fiber
+- Image: /images/apple-crisp.jpg
 - Serves: 8
 
 ## Description

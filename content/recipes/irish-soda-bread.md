@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread, Holiday
+- Image: /images/irish-soda-bread.jpg
 - Serves: 12
 
 ## Description

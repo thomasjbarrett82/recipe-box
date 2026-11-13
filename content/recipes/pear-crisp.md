@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/pear-crisp.jpg
 - Serves: 8
 
 ## Description

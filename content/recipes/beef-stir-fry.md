@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/beef-stir-fry.jpg
 - Serves: 4
 
 ## Description

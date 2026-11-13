@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side
+- Image: /images/mashed-pro-tatoes.jpg
 - Serves: 12
 
 ## Description

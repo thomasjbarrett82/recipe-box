@@ -4,6 +4,7 @@
 
 - Tags: Side
 - Source: Spruce Eats
+- Image: /images/colcannon.jpg
 - Serves: 8
 
 ## Description

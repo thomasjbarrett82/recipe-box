@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread, Vegetarian, Vegan, Gluten free
+- Image: /images/rice-bread-gf.jpg
 - Serves: 12
 
 ## Description

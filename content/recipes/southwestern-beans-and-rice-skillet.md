@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Dutch oven, High fiber
+- Image: /images/southwestern-beans-and-rice-skillet.jpg
 - Serves: 8
 
 ## Description

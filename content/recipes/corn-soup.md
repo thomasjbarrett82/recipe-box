@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Dutch oven, Vegetarian
+- Image: /images/corn-soup.jpg
 - Serves: 5
 
 ## Description

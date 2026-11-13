@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Drink, Quick, Holiday
+- Image: /images/punch.jpg
 - Serves: 19
 
 ## Description

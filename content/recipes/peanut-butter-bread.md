@@ -4,6 +4,7 @@
 
 - Tags: Bread
 - Source: @bdylanhollis
+- Image: /images/peanut-butter-bread.jpg
 - Serves: 10
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Instant Pot
+- Image: /images/pork-chops-rice-ip.jpg
 - Serves: 6
 
 ## Description

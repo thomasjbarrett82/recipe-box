@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/avocado-ice-cream.jpg
 - Serves: 10
 
 ## Description

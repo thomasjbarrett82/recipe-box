@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: Tara
+- Image: /images/apple-squares.jpg
 - Serves: 24
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Bread, Holiday, Minnesota
 - Source: Judy Munson
+- Image: /images/grandma-klevens-flatbread.jpg
 - Serves: 16
 
 ## Description

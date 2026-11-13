@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Appetizer, Quick, Holiday, Minnesota
+- Image: /images/puppy-chow.jpg
 - Serves: 16
 
 ## Description

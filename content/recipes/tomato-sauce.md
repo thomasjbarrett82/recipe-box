@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Vegetarian
+- Image: /images/tomato-sauce.jpg
 - Serves: 12
 
 ## Description

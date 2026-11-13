@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/bourbon-crisp.jpg
 - Serves: 6
 
 ## Description

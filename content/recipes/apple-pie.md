@@ -4,6 +4,7 @@
 
 - Tags: Dessert, High fiber, Holiday
 - Source: Serious Eats (BraveTart)
+- Image: /images/apple-pie.jpg
 - Serves: 8
 
 ## Description

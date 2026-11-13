@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew
+- Image: /images/sausage-pepper-stew.jpg
 - Serves: 6
 
 ## Description

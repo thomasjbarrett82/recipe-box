@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Minnesota
+- Image: /images/taco-tot-hotdish.jpg
 - Serves: 8
 
 ## Description

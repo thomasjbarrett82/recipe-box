@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/chocolate-mayo-cake.jpg
 - Serves: 15
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Soup, Dutch oven, Minnesota
 - Source: Serious Eats
+- Image: /images/chicken-wild-rice-soup.jpg
 - Serves: 10
 
 ## Description

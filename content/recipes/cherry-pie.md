@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/cherry-pie.jpg
 - Serves: 8
 
 ## Description

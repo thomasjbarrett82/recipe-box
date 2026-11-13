@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Vegetarian
+- Image: /images/scottish-oatmeal.jpg
 - Serves: 4
 
 ## Description

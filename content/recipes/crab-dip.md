@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Appetizer
+- Image: /images/crab-dip.jpg
 - Serves: 12
 
 ## Description

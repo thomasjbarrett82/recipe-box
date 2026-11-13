@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Holiday
+- Image: /images/cut-out-cookies.jpg
 - Serves: 24
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Source: Tom
+- Image: /images/steak-fajita-bowl.jpg
 - Serves: 6
 
 ## Description

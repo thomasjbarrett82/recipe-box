@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick, High fiber
 - Source: @mariannas_pantry
+- Image: /images/cowboy-caviar.jpg
 - Serves: 10
 
 ## Description

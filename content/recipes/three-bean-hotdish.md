@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Slow cooker, High fiber, Minnesota
+- Image: /images/three-bean-hotdish.jpg
 - Serves: 10
 
 ## Description

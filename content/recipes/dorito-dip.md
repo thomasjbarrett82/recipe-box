@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Appetizer, Quick
+- Image: /images/dorito-dip.jpg
 - Serves: 12
 
 ## Description

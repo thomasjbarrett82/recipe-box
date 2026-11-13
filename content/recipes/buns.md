@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread
+- Image: /images/buns.jpg
 - Serves: 12
 
 ## Description

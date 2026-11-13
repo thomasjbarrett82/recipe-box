@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick
 - Source: Judy
+- Image: /images/chicken-tenders.jpg
 - Serves: 2
 
 ## Description

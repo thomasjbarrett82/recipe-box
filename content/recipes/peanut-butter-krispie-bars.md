@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Minnesota
+- Image: /images/peanut-butter-krispie-bars.jpg
 - Serves: 24
 
 ## Description

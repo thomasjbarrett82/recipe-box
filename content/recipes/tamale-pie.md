@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/tamale-pie.jpg
 - Serves: 8
 
 ## Description

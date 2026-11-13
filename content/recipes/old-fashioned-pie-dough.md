@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/old-fashioned-pie-dough.jpg
 - Serves: 8
 
 ## Description

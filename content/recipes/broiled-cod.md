@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick
 - Source: Tara
+- Image: /images/broiled-cod.jpg
 - Serves: 4
 
 ## Description

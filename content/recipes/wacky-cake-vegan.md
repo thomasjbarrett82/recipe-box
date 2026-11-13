@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Vegetarian, Vegan
 - Source: @bdylanhollis
+- Image: /images/wacky-cake-vegan.jpg
 - Serves: 9
 
 ## Description

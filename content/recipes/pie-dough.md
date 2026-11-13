@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/pie-dough.jpg
 - Serves: 8
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: @bdylanhollis
+- Image: /images/ambrosia.jpg
 - Serves: 20
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/rice-krispie-treats.jpg
 - Serves: 24
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Main, Vegetarian, Vegan, High fiber
 - Source: The Hidden Veggies
+- Image: /images/butternut-squash-chickpea-curry.jpg
 - Serves: 8
 
 ## Description

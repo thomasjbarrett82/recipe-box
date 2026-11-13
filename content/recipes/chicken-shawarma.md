@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Instant Pot
+- Image: /images/chicken-shawarma.jpg
 - Serves: 8
 
 ## Description

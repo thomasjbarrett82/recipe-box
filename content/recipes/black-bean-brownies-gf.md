@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Gluten free
 - Source: @bdylanhollis
+- Image: /images/black-bean-brownies-gf.jpg
 - Serves: 16
 
 ## Description

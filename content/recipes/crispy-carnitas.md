@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Instant Pot
+- Image: /images/crispy-carnitas.jpg
 - Serves: 11
 
 ## Description

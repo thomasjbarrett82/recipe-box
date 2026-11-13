@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Appetizer, Slow cooker, Vegetarian
+- Image: /images/cheese-dip.jpg
 - Serves: 24
 
 ## Description

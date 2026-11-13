@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Source: @bdylanhollis
+- Image: /images/peppermint-patties.jpg
 - Serves: 30
 
 ## Description

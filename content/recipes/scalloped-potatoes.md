@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Holiday
+- Image: /images/scalloped-potatoes.jpg
 - Serves: 8
 
 ## Description

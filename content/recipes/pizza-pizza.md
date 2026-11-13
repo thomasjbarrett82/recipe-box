@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Vegetarian
+- Image: /images/pizza-pizza.jpg
 - Serves: 4
 
 ## Description

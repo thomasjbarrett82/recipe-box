@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/cornstarch-cookies.jpg
 - Serves: 12
 
 ## Description

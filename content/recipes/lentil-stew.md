@@ -4,6 +4,7 @@
 
 - Tags: Stew, Vegetarian, Vegan, High fiber
 - Source: Derek Sarno
+- Image: /images/lentil-stew.jpg
 - Serves: 6
 
 ## Description

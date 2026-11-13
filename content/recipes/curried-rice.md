@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Quick
+- Image: /images/curried-rice.jpg
 - Serves: 4
 
 ## Description

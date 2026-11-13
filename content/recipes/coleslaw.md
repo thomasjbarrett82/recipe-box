@@ -4,6 +4,7 @@
 
 - Tags: Side, Quick, Vegetarian
 - Source: Serious Eats
+- Image: /images/coleslaw.jpg
 - Serves: 12
 
 ## Description

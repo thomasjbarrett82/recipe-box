@@ -4,6 +4,7 @@
 
 - Tags: Stew, Spicy, Slow cooker, Dutch oven, High fiber, Favorite
 - Source: Tara
+- Image: /images/chili.jpg
 - Serves: 9
 
 ## Description

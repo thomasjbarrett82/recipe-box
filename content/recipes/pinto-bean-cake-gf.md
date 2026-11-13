@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Gluten free, High fiber
 - Source: @bdylanhollis
+- Image: /images/pinto-bean-cake-gf.jpg
 - Serves: 12
 
 ## Description

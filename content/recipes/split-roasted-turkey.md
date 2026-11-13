@@ -4,6 +4,7 @@
 
 - Tags: Main, Holiday
 - Source: Epicurious
+- Image: /images/split-roasted-turkey.jpg
 - Serves: 17
 
 ## Description

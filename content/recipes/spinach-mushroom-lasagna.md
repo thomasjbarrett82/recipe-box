@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Vegetarian
 - Source: From Rage To Real
+- Image: /images/spinach-mushroom-lasagna.jpg
 - Serves: 8
 
 ## Description

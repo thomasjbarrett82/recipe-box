@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick
+- Image: /images/chicken-cutlets-pan-sauce.jpg
 - Serves: 4
 
 ## Description

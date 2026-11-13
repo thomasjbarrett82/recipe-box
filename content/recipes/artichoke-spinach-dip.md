@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Vegetarian
 - Source: Tara
+- Image: /images/artichoke-spinach-dip.jpg
 - Serves: 16
 
 ## Description

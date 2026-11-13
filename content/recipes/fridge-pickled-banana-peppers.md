@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Vegetarian, Vegan
+- Image: /images/fridge-pickled-banana-peppers.jpg
 - Serves: 30
 
 ## Description

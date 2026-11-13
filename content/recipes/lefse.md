@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread, Holiday, Minnesota
+- Image: /images/lefse.jpg
 - Serves: 40
 
 ## Description

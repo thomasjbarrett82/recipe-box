@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Holiday
 - Source: Tom
+- Image: /images/mac-and-cheese-bake.jpg
 - Serves: 12
 
 ## Description

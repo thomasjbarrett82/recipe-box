@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Minnesota
 - Source: @bdylanhollis
+- Image: /images/magic-cookie-bars.jpg
 - Serves: 24
 
 ## Description

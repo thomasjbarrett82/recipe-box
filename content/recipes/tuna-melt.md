@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick
+- Image: /images/tuna-melt.jpg
 - Serves: 2
 
 ## Description

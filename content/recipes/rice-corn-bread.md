@@ -4,6 +4,7 @@
 
 - Tags: Bread
 - Source: @bdylanhollis
+- Image: /images/rice-corn-bread.jpg
 - Serves: 9
 
 ## Description

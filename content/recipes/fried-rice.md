@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick, Vegetarian
+- Image: /images/fried-rice.jpg
 - Serves: 3
 
 ## Description

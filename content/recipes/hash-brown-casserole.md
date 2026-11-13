@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Holiday, Minnesota
+- Image: /images/hash-brown-casserole.jpg
 - Serves: 12
 
 ## Description

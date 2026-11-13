@@ -4,6 +4,7 @@
 
 - Tags: Breakfast
 - Source: My Crazy Good Life
+- Image: /images/sausage-zucchini-egg-bake.jpg
 - Serves: 8
 
 ## Description

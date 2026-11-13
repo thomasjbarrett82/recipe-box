@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Vegetarian, Minnesota
+- Image: /images/grape-salad.jpg
 - Serves: 16
 
 ## Description

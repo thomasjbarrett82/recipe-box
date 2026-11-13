@@ -4,6 +4,7 @@
 
 - Tags: Main, Holiday
 - Source: ThatDudeCanCook (YouTube)
+- Image: /images/roasted-turkey-and-gravy.jpg
 - Serves: 18
 
 ## Description

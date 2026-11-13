@@ -4,6 +4,7 @@
 
 - Tags: Stew, Slow cooker, Vegetarian, Vegan, High fiber
 - Source: Taste of Home
+- Image: /images/sweet-potato-lentil-stew.jpg
 - Serves: 8
 
 ## Description

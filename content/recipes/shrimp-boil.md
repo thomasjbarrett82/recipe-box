@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Spicy, High fiber
+- Image: /images/shrimp-boil.jpg
 - Serves: 8
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Quick
+- Image: /images/fishermans-eggs.jpg
 - Serves: 1
 
 ## Description

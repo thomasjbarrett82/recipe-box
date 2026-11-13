@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill, Smoker
 - Source: Serious Eats
+- Image: /images/smoked-brisket.jpg
 - Serves: 22
 
 ## Description

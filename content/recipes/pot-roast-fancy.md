@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Dutch oven, High fiber
+- Image: /images/pot-roast-fancy.jpg
 - Serves: 6
 
 ## Description

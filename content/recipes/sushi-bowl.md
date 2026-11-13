@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick, High fiber
 - Source: Instagram
+- Image: /images/sushi-bowl.jpg
 - Serves: 2
 
 ## Description

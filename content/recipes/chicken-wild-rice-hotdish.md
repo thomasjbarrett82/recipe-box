@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Instant Pot, Minnesota
+- Image: /images/chicken-wild-rice-hotdish.jpg
 - Serves: 6
 
 ## Description

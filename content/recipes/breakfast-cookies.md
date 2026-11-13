@@ -4,6 +4,7 @@
 
 - Tags: Breakfast
 - Source: Tara
+- Image: /images/breakfast-cookies.jpg
 - Serves: 30
 
 ## Description

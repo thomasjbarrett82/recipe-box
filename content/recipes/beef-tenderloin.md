@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Holiday
+- Image: /images/beef-tenderloin.jpg
 - Serves: 8
 
 ## Description

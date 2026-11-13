@@ -4,6 +4,7 @@
 
 - Tags: Dessert, High fiber
 - Source: @bdylanhollis
+- Image: /images/baked-apples.jpg
 - Serves: 3
 
 ## Description

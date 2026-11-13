@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Holiday
+- Image: /images/pumpkin-bars.jpg
 - Serves: 24
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Stew, Spicy, Slow cooker, High fiber
 - Source: Tom
+- Image: /images/birria-chicken-stew.jpg
 - Serves: 6
 
 ## Description

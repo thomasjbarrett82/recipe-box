@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Appetizer, Quick, Gluten free
+- Image: /images/chex-party-mix-gf.jpg
 - Serves: 10
 
 ## Description

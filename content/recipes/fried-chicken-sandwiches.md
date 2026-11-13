@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/fried-chicken-sandwiches.jpg
 - Serves: 4
 
 ## Description

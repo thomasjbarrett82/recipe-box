@@ -4,6 +4,7 @@
 
 - Tags: Main, Dutch oven
 - Source: Brian Lagerstrom
+- Image: /images/pork-tacos.jpg
 - Serves: 12
 
 ## Description

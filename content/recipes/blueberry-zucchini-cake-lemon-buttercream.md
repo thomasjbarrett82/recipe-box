@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: The View from Great Island
+- Image: /images/blueberry-zucchini-cake-lemon-buttercream.jpg
 - Serves: 20
 
 ## Description

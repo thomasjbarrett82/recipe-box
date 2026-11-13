@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Minnesota
+- Image: /images/special-k-bars.jpg
 - Serves: 24
 
 ## Description

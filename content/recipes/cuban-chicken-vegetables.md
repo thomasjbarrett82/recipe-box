@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Grill, High fiber
+- Image: /images/cuban-chicken-vegetables.jpg
 - Serves: 5
 
 ## Description

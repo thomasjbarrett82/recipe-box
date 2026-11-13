@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Drink, Quick, Vegetarian, Vegan, High fiber
+- Image: /images/perfect-green-smoothie.jpg
 - Serves: 2
 
 ## Description

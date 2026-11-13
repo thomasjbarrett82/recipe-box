@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta
+- Image: /images/baked-feta-pasta.jpg
 - Serves: 6
 
 ## Description

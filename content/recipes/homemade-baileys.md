@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Drink, Quick, Holiday
+- Image: /images/homemade-baileys.jpg
 - Serves: 21
 
 ## Description

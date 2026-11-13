@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: @bdylanhollis
+- Image: /images/cowboy-cookies.jpg
 - Serves: 30
 
 ## Description

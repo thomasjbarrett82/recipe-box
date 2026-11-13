@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast
+- Image: /images/egg-bake.jpg
 - Serves: 12
 
 ## Description

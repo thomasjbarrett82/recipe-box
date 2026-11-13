@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Gluten free, Holiday
 - Source: B. Dylan Hollis
+- Image: /images/pumpkin-graham-cake-gf.jpg
 - Serves: 10
 
 ## Description

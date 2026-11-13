@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Appetizer, Quick, Vegetarian, Vegan
+- Image: /images/guacamole.jpg
 - Serves: 8
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Spicy, Dutch oven
+- Image: /images/jambalaya.jpg
 - Serves: 8
 
 ## Description

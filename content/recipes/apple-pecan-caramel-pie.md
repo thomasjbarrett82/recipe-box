@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, High fiber, Holiday
+- Image: /images/apple-pecan-caramel-pie.jpg
 - Serves: 10
 
 ## Description

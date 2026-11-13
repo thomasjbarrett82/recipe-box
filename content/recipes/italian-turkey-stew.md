@@ -4,6 +4,7 @@
 
 - Tags: Stew, Dutch oven, High fiber
 - Source: Mayo Clinic
+- Image: /images/italian-turkey-stew.jpg
 - Serves: 5
 
 ## Description

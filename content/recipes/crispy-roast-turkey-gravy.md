@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Holiday
+- Image: /images/crispy-roast-turkey-gravy.jpg
 - Serves: 17
 
 ## Description

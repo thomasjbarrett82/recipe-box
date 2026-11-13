@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Source: Alton Brown
+- Image: /images/rice-krispie-treats-fancy.jpg
 - Serves: 24
 
 ## Description

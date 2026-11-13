@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/chocolate-sheet-cake.jpg
 - Serves: 24
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Vegetarian, Vegan, High fiber
+- Image: /images/garlic-butternut-squash-soup.jpg
 - Serves: 6
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/pan-seared-pork-chops.jpg
 - Serves: 2
 
 ## Description

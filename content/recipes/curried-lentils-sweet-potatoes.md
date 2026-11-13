@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Vegetarian, High fiber
+- Image: /images/curried-lentils-sweet-potatoes.jpg
 - Serves: 5
 
 ## Description

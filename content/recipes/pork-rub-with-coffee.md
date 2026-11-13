@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick
+- Image: /images/pork-rub-with-coffee.jpg
 - Serves: 12
 
 ## Description

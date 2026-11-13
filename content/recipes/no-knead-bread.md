@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Bread, Dutch oven, Vegetarian, Vegan
+- Image: /images/no-knead-bread.jpg
 - Serves: 16
 
 ## Description

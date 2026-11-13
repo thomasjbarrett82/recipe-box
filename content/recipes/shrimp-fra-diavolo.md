@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Quick, Spicy
+- Image: /images/shrimp-fra-diavolo.jpg
 - Serves: 4
 
 ## Description

@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Slow cooker, High fiber
+- Image: /images/chicken-sausage-cassoulet.jpg
 - Serves: 5
 
 ## Description

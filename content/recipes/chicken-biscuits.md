@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/chicken-biscuits.jpg
 - Serves: 6
 
 ## Description

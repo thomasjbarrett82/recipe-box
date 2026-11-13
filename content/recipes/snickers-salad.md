@@ -4,6 +4,7 @@
 
 - Tags: Dessert, High fiber, Minnesota
 - Source: Instagram
+- Image: /images/snickers-salad.jpg
 - Serves: 4
 
 ## Description

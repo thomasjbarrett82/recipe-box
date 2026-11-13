@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill, Smoker
 - Source: Hey Grill Hey
+- Image: /images/burnt-ends.jpg
 - Serves: 7
 
 ## Description

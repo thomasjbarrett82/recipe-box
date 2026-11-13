@@ -4,6 +4,7 @@
 
 - Tags: Side, Quick, Vegetarian, High fiber
 - Source: Instagram
+- Image: /images/chickpea-feta-salad.jpg
 - Serves: 8
 
 ## Description

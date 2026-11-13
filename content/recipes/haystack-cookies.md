@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Minnesota
 - Source: @bdylanhollis
+- Image: /images/haystack-cookies.jpg
 - Serves: 15
 
 ## Description

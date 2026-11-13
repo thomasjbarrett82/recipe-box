@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, Minnesota
 - Source: Grandma Judy Munson
+- Image: /images/frozen-cream-corn.jpg
 - Serves: 36
 
 ## Description

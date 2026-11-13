@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy, Instant Pot
 - Source: Tom
+- Image: /images/barbacoa-beef-ip.jpg
 - Serves: 9
 
 ## Description

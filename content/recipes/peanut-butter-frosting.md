@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Quick
+- Image: /images/peanut-butter-frosting.jpg
 - Serves: 24
 
 ## Description

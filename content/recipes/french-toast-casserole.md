@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Breakfast, Vegetarian, Holiday
+- Image: /images/french-toast-casserole.jpg
 - Serves: 8
 
 ## Description

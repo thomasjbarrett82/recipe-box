@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill
 - Source: Anil
+- Image: /images/chicken-satay-nut-sauce.jpg
 - Serves: 6
 
 ## Description

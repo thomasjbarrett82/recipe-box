@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert
+- Image: /images/cheesecake.jpg
 - Serves: 12
 
 ## Description

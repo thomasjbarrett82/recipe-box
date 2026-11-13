@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Vegetarian, Holiday, Minnesota
+- Image: /images/scalloped-corn.jpg
 - Serves: 8
 
 ## Description

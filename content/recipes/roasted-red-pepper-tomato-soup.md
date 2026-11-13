@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Vegetarian, High fiber
+- Image: /images/roasted-red-pepper-tomato-soup.jpg
 - Serves: 4
 
 ## Description

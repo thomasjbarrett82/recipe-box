@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup
+- Image: /images/beer-cheese-soup.jpg
 - Serves: 7
 
 ## Description

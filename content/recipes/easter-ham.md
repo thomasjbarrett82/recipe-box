@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Holiday
+- Image: /images/easter-ham.jpg
 - Serves: About 45
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Stew, High fiber
 - Source: @marcus.olaoire on Instagram
+- Image: /images/bean-spinach-stew.jpg
 - Serves: 6
 
 ## Description

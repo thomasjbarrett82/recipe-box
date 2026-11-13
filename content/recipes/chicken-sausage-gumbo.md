@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Spicy
+- Image: /images/chicken-sausage-gumbo.jpg
 - Serves: 8
 
 ## Description

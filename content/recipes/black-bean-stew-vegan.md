@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Spicy, Instant Pot, Vegetarian, Vegan, High fiber
+- Image: /images/black-bean-stew-vegan.jpg
 - Serves: 6
 
 ## Description

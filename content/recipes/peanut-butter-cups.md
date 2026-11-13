@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Holiday
+- Image: /images/peanut-butter-cups.jpg
 - Serves: 60
 
 ## Description

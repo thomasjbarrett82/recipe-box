@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main
+- Image: /images/beef-stroganoff.jpg
 - Serves: 6
 
 ## Description

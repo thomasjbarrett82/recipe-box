@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Side, Instant Pot, Vegetarian, Vegan
+- Image: /images/brown-rice.jpg
 - Serves: 4
 
 ## Description

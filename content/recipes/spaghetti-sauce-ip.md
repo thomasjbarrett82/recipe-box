@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Pasta, Instant Pot, High fiber
+- Image: /images/spaghetti-sauce-ip.jpg
 - Serves: 6
 
 ## Description

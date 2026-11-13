@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Soup, Minnesota
+- Image: /images/wild-rice-cheese-soup.jpg
 - Serves: 8
 
 ## Description

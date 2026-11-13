@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Dessert, Quick
+- Image: /images/brown-sugar-whipped-cream.jpg
 - Serves: 6
 
 ## Description

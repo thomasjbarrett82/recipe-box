@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Stew, Instant Pot
+- Image: /images/beef-stew-ip.jpg
 - Serves: 8
 
 ## Description

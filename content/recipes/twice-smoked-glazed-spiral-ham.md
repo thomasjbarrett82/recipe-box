@@ -3,6 +3,7 @@
 ## Recipe Data
 
 - Tags: Main, Grill, Smoker, Holiday
+- Image: /images/twice-smoked-glazed-spiral-ham.jpg
 - Serves: About 27
 
 ## Description

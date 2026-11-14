@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert
+- Tags: Dessert, Favorite
 - Image: /images/strawberry-pie.jpg
 - Serves: 8
 

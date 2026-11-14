@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, High fiber
+- Tags: Main, High fiber, Favorite
 - Source: Taste of Home
 - Image: /images/easy-taco-skillet.jpg
 - Serves: 6

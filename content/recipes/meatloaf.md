@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main
+- Tags: Main, Favorite
 - Source: Pillsbury Cookbook
 - Image: /images/meatloaf.jpg
 - Serves: 8

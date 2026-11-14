@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert, Minnesota
+- Tags: Dessert, Minnesota, Favorite
 - Image: /images/graham-cracker-pie.jpg
 - Serves: 8
 

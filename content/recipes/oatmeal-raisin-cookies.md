@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert, Quick
+- Tags: Dessert, Quick, Favorite
 - Image: /images/oatmeal-raisin-cookies.jpg
 - Serves: 18
 

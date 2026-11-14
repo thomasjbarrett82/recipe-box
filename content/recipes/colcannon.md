@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Side
+- Tags: Side, Favorite, Vegetarian
 - Source: Spruce Eats
 - Image: /images/colcannon.jpg
 - Serves: 8

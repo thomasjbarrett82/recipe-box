@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert
+- Tags: Dessert, Favorite
 - Source: Tom
 - Image: /images/mississippi-mud-pie.jpg
 - Serves: 12

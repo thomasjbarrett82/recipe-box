@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, High fiber
+- Tags: Main, High fiber, Favorite
 - Source: Subversive Table
 - Image: /images/pizza-beans.jpg
 - Serves: 6

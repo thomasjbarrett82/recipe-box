@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Soup, Spicy, High fiber
+- Tags: Soup, Spicy, High fiber, Favorite
 - Image: /images/chicken-tortilla-soup.jpg
 - Serves: 8
 

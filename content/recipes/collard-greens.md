@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Side, High fiber
+- Tags: Side, High fiber, Favorite
 - Source: Tom
 - Image: /images/collard-greens.jpg
 - Serves: 4

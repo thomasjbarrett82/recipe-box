@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Side, Quick, Vegetarian
+- Tags: Side, Quick, Vegetarian, Favorite
 - Source: Tom
 - Image: /images/garlic-parmesan-butter-beans.jpg
 - Serves: 6

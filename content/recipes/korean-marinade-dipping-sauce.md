@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Quick, Spicy
+- Tags: Main, Quick, Spicy, Favorite
 - Source: DJU
 - Image: /images/korean-marinade-dipping-sauce.jpg
 - Serves: 26

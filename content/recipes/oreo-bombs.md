@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert, Holiday
+- Tags: Dessert, Holiday, Favorite
 - Source: Tom
 - Image: /images/oreo-bombs.jpg
 - Serves: 30

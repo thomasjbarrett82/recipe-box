@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Grill
+- Tags: Main, Grill, Favorite
 - Source: Serious Eats
 - Image: /images/pork-souvlaki.jpg
 - Serves: 4

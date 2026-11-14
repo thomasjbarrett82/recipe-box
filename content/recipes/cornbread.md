@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Bread
+- Tags: Bread, Favorite
 - Image: /images/cornbread.jpg
 - Serves: 9
 

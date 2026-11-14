@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Smoker
+- Tags: Main, Smoker, Favorite
 - Image: /images/pulled-pork-bbq.jpg
 - Serves: 12
 

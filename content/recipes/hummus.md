@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Appetizer, Quick, Vegetarian, Vegan
+- Tags: Appetizer, Quick, Vegetarian, Vegan, Favorite
 - Image: /images/hummus.jpg
 - Serves: 7
 

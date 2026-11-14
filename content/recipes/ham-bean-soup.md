@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Soup, Slow cooker, High fiber
+- Tags: Soup, Slow cooker, High fiber, Favorite
 - Image: /images/ham-bean-soup.jpg
 - Serves: 10
 

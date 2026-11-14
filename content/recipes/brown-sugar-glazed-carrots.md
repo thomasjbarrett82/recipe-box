@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Side, Vegetarian
+- Tags: Side, Vegetarian, Favorite
 - Source: Tom
 - Image: /images/brown-sugar-glazed-carrots.jpg
 - Serves: 6

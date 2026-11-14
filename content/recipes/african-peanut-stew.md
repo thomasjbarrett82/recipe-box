@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Stew, Slow cooker, Vegetarian, Vegan, High fiber
+- Tags: Stew, Slow cooker, Vegetarian, Vegan, High fiber, Favorite
 - Source: Tom
 - Image: /images/african-peanut-stew.jpg
 - Serves: 8

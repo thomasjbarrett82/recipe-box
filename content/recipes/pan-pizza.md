@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Vegetarian
+- Tags: Main, Vegetarian, Favorite
 - Image: /images/pan-pizza.jpg
 - Serves: 8
 

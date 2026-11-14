@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Appetizer, Spicy, Vegetarian, Vegan
+- Tags: Appetizer, Spicy, Vegetarian, Vegan, Favorite
 - Source: Serious Eats
 - Image: /images/salsa.jpg
 - Serves: 12

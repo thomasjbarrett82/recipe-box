@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Pasta
+- Tags: Pasta, Favorite, Main
 - Image: /images/lasagna.jpg
 - Serves: 12
 

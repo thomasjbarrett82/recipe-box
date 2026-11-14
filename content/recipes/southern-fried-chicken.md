@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main
+- Tags: Main, Favorite
 - Image: /images/southern-fried-chicken.jpg
 - Serves: 5
 

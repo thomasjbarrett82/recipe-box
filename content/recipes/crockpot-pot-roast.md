@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Slow cooker
+- Tags: Main, Slow cooker, Favorite
 - Image: /images/crockpot-pot-roast.jpg
 - Serves: 7
 

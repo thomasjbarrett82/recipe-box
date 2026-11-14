@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Quick
+- Tags: Main, Quick, Favorite
 - Source: Tom
 - Image: /images/quesadillas.jpg
 - Serves: 4

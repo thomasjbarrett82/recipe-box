@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Pasta
+- Tags: Pasta, Favorite
 - Image: /images/chicken-mushroom-alfredo.jpg
 - Serves: 6
 

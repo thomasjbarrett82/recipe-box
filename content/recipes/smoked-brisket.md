@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Grill, Smoker
+- Tags: Main, Grill, Smoker, Favorite
 - Source: Serious Eats
 - Image: /images/smoked-brisket.jpg
 - Serves: 22

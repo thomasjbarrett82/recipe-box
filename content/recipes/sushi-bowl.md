@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Quick, High fiber
+- Tags: Main, Quick, High fiber, Favorite
 - Source: Instagram
 - Image: /images/sushi-bowl.jpg
 - Serves: 2

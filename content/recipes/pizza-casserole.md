@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Pasta
+- Tags: Pasta, Favorite
 - Image: /images/pizza-casserole.jpg
 - Serves: 8
 

@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Pasta, Holiday
+- Tags: Pasta, Holiday, Favorite
 - Source: Tom
 - Image: /images/mac-and-cheese-bake.jpg
 - Serves: 12

@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert
+- Tags: Dessert, Favorite
 - Source: Alton Brown
 - Image: /images/rice-krispie-treats-fancy.jpg
 - Serves: 24

@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main
+- Tags: Main, Favorite
 - Image: /images/chicken-broccoli-stir-fry.jpg
 - Serves: 4
 

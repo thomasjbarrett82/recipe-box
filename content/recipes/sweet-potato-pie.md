@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert, Holiday
+- Tags: Dessert, Holiday, Favorite
 - Image: /images/sweet-potato-pie.jpg
 - Serves: 10
 

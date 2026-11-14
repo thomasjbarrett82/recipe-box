@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Appetizer, Spicy
+- Tags: Appetizer, Spicy, Favorite
 - Source: Serious Eats
 - Image: /images/chicken-wings.jpg
 - Serves: 3

@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Side, Quick, Holiday
+- Tags: Side, Quick, Holiday, Favorite
 - Image: /images/sweet-sour-brussels-sprouts.jpg
 - Serves: 8
 

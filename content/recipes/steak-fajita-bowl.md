@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main
+- Tags: Main, Favorite
 - Source: Tom
 - Image: /images/steak-fajita-bowl.jpg
 - Serves: 6

@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, High fiber
+- Tags: Main, High fiber, Favorite
 - Image: /images/split-roasted-chicken-potatoes.jpg
 - Serves: 4
 

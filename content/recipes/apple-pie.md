@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Dessert, High fiber, Holiday
+- Tags: Dessert, High fiber, Holiday, Favorite
 - Source: Serious Eats (BraveTart)
 - Image: /images/apple-pie.jpg
 - Serves: 8

@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main
+- Tags: Main, Favorite
 - Image: /images/smothered-pork-chops.jpg
 - Serves: 7
 

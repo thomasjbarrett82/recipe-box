@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Side, Vegetarian, High fiber, Holiday
+- Tags: Side, Vegetarian, High fiber, Holiday, Favorite
 - Image: /images/roasted-sweet-potatoes.jpg
 - Serves: 8
 

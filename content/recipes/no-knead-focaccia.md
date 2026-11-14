@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Bread, Vegetarian, Vegan
+- Tags: Bread, Vegetarian, Vegan, Favorite
 - Image: /images/no-knead-focaccia.jpg
 - Serves: 12
 

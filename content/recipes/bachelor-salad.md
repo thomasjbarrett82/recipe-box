@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Grill, High fiber
+- Tags: Main, Grill, High fiber, Favorite
 - Image: /images/bachelor-salad.jpg
 - Serves: 4
 

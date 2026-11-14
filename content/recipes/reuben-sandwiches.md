@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Slow cooker, High fiber
+- Tags: Main, Slow cooker, High fiber, Favorite
 - Image: /images/reuben-sandwiches.jpg
 - Serves: 4
 

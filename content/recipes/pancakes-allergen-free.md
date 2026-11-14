@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Breakfast, Quick, Vegetarian
+- Tags: Breakfast, Quick, Vegetarian, Favorite
 - Image: /images/pancakes-allergen-free.jpg
 - Serves: 4
 

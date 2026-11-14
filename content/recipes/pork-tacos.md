@@ -2,7 +2,7 @@
 
 ## Recipe Data
 
-- Tags: Main, Dutch oven
+- Tags: Main, Dutch oven, Favorite
 - Source: Brian Lagerstrom
 - Image: /images/pork-tacos.jpg
 - Serves: 12

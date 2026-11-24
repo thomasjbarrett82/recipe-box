@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill, Smoker, Holiday
 - Image: /images/twice-smoked-glazed-spiral-ham.jpg
+- Emoji: 🍖
 - Serves: About 27
 
 ## Description

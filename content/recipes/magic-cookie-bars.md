@@ -5,6 +5,7 @@
 - Tags: Dessert, Minnesota
 - Source: @bdylanhollis
 - Image: /images/magic-cookie-bars.jpg
+- Emoji: ✨
 - Serves: 24
 
 ## Description

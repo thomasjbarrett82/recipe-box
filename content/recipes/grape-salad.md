@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, Minnesota, Favorite
 - Image: /images/grape-salad.jpg
+- Emoji: 🍇
 - Serves: 16
 
 ## Description

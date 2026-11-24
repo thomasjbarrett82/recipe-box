@@ -4,6 +4,7 @@
 
 - Tags: Side
 - Image: /images/mcdonalds-french-fries.jpg
+- Emoji: 🍟
 - Serves: 4
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, High fiber
 - Image: /images/potato-wedges.jpg
+- Emoji: 🥔
 - Serves: 4
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, Quick
 - Image: /images/curried-rice.jpg
+- Emoji: 🍛
 - Serves: 4
 
 ## Description

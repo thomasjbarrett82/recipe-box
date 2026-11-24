@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: TikTok
 - Image: /images/peanut-butter-oat-cups.jpg
+- Emoji: 🥜
 - Serves: 8
 
 ## Description

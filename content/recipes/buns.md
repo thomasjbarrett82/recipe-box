@@ -4,6 +4,7 @@
 
 - Tags: Bread
 - Image: /images/buns.jpg
+- Emoji: 🍞
 - Serves: 12
 
 ## Description

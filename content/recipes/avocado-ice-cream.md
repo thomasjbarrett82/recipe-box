@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/avocado-ice-cream.jpg
+- Emoji: 🥑
 - Serves: 10
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, Holiday
 - Image: /images/mashed-potatoes.jpg
+- Emoji: 🥔
 - Serves: 8
 
 ## Description

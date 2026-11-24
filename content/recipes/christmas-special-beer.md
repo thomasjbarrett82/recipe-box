@@ -4,6 +4,7 @@
 
 - Tags: Drink, Holiday
 - Image: /images/christmas-special-beer.jpg
+- Emoji: 🍺
 - Serves: About 50
 
 ## Description

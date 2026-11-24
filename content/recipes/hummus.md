@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick, Vegetarian, Vegan, Favorite
 - Image: /images/hummus.jpg
+- Emoji: 🧆
 - Serves: 7
 
 ## Description

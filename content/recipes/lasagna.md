@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Favorite, Main
 - Image: /images/lasagna.jpg
+- Emoji: 🍝
 - Serves: 12
 
 ## Description

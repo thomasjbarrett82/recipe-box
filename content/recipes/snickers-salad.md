@@ -5,6 +5,7 @@
 - Tags: Dessert, High fiber, Minnesota, Favorite
 - Source: Instagram
 - Image: /images/snickers-salad.jpg
+- Emoji: 🍏
 - Serves: 4
 
 ## Description

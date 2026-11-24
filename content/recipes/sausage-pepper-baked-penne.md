@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Spicy
 - Image: /images/sausage-pepper-baked-penne.jpg
+- Emoji: 🫑
 - Serves: 6
 
 ## Description

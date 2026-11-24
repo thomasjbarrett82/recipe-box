@@ -5,6 +5,7 @@
 - Tags: Main, Vegetarian, Vegan, Gluten free
 - Source: Brian Lagerstrom
 - Image: /images/pizza-crust-gf.jpg
+- Emoji: 🍕
 - Serves: 8
 
 ## Description

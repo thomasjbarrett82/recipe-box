@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Vegetarian
 - Image: /images/banana-bread-waffles.jpg
+- Emoji: 🧇
 - Serves: 7
 
 ## Description

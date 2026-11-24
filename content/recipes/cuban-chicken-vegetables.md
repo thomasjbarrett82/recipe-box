@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill, High fiber
 - Image: /images/cuban-chicken-vegetables.jpg
+- Emoji: 🌴
 - Serves: 5
 
 ## Description

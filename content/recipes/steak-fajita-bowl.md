@@ -5,6 +5,7 @@
 - Tags: Main, Favorite
 - Source: Tom
 - Image: /images/steak-fajita-bowl.jpg
+- Emoji: 🫑
 - Serves: 6
 
 ## Description

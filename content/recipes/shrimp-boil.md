@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy, High fiber
 - Image: /images/shrimp-boil.jpg
+- Emoji: 🦐
 - Serves: 8
 
 ## Description

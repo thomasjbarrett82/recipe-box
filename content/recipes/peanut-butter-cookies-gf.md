@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Quick, Gluten free, Dairy free
 - Image: /images/peanut-butter-cookies-gf.jpg
+- Emoji: 🥜
 - Serves: 12
 
 ## Description

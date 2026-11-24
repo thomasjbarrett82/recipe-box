@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/orange-delight-cookies.jpg
+- Emoji: 🍊
 - Serves: 24
 
 ## Description

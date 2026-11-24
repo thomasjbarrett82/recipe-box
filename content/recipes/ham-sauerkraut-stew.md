@@ -4,6 +4,7 @@
 
 - Tags: Stew, Dutch oven, High fiber
 - Image: /images/ham-sauerkraut-stew.jpg
+- Emoji: 🍖
 - Serves: 5
 
 ## Description

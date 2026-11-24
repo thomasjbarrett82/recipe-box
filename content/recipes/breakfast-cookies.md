@@ -5,6 +5,7 @@
 - Tags: Breakfast
 - Source: Tara
 - Image: /images/breakfast-cookies.jpg
+- Emoji: 🍪
 - Serves: 30
 
 ## Description

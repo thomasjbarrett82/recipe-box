@@ -4,6 +4,7 @@
 
 - Tags: Soup, High fiber
 - Image: /images/black-bean-soup.jpg
+- Emoji: 🫘
 - Serves: 10
 
 ## Description

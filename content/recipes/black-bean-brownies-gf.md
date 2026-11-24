@@ -5,6 +5,7 @@
 - Tags: Dessert, Gluten free
 - Source: @bdylanhollis
 - Image: /images/black-bean-brownies-gf.jpg
+- Emoji: 🍫
 - Serves: 16
 
 ## Description

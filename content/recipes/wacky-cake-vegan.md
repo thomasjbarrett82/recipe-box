@@ -5,6 +5,7 @@
 - Tags: Dessert, Vegetarian, Vegan
 - Source: @bdylanhollis
 - Image: /images/wacky-cake-vegan.jpg
+- Emoji: 🎂
 - Serves: 9
 
 ## Description

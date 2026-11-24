@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Favorite
 - Image: /images/sausage-gravy.jpg
+- Emoji: 🍳
 - Serves: 8
 
 ## Description

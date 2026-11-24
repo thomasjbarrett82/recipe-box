@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday, Favorite
 - Image: /images/sweet-potato-pie.jpg
+- Emoji: 🍠
 - Serves: 10
 
 ## Description

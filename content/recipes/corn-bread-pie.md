@@ -4,6 +4,7 @@
 
 - Tags: Bread
 - Image: /images/corn-bread-pie.jpg
+- Emoji: 🌽
 - Serves: 6
 
 ## Description

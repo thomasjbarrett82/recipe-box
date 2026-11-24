@@ -5,6 +5,7 @@
 - Tags: Stew, Spicy, Dutch oven, High fiber
 - Source: Closet Cooking
 - Image: /images/green-chicken-chili.jpg
+- Emoji: 🫑
 - Serves: 6
 
 ## Description

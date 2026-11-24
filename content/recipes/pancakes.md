@@ -5,6 +5,7 @@
 - Tags: Breakfast, Quick, Vegetarian
 - Source: Tara
 - Image: /images/pancakes.jpg
+- Emoji: 🥞
 - Serves: 4
 
 ## Description

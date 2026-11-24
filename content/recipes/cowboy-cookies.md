@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/cowboy-cookies.jpg
+- Emoji: 🤠
 - Serves: 30
 
 ## Description

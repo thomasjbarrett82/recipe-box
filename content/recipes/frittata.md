@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Vegetarian
 - Image: /images/frittata.jpg
+- Emoji: 🍳
 - Serves: 4
 
 ## Description

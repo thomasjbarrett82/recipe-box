@@ -5,6 +5,7 @@
 - Tags: Appetizer, Spicy, Favorite
 - Source: Serious Eats
 - Image: /images/chicken-wings.jpg
+- Emoji: 🍗
 - Serves: 3
 
 ## Description

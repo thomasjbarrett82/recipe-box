@@ -4,6 +4,7 @@
 
 - Tags: Soup, Spicy, Vegetarian, High fiber
 - Image: /images/corn-chowder.jpg
+- Emoji: 🌽
 - Serves: 4
 
 ## Description

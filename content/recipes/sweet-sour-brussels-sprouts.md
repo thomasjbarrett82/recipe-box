@@ -4,6 +4,7 @@
 
 - Tags: Side, Quick, Holiday, Favorite
 - Image: /images/sweet-sour-brussels-sprouts.jpg
+- Emoji: 🥬
 - Serves: 8
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Soup, Vegetarian, High fiber
 - Image: /images/roasted-red-pepper-tomato-soup.jpg
+- Emoji: 🫑
 - Serves: 4
 
 ## Description

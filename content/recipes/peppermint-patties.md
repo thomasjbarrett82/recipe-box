@@ -5,6 +5,7 @@
 - Tags: Dessert, Holiday
 - Source: @bdylanhollis
 - Image: /images/peppermint-patties.jpg
+- Emoji: 🍬
 - Serves: 30
 
 ## Description

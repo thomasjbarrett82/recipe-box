@@ -5,6 +5,7 @@
 - Tags: Side, Spicy, Vegetarian, Vegan
 - Source: MyHealthyDish (TikTok)
 - Image: /images/korean-coleslaw.jpg
+- Emoji: 🥗
 - Serves: 4
 
 ## Description

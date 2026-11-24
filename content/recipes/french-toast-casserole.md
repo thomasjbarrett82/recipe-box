@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Vegetarian, Holiday
 - Image: /images/french-toast-casserole.jpg
+- Emoji: 🍞
 - Serves: 8
 
 ## Description

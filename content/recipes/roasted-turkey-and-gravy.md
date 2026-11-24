@@ -5,6 +5,7 @@
 - Tags: Main, Holiday
 - Source: ThatDudeCanCook (YouTube)
 - Image: /images/roasted-turkey-and-gravy.jpg
+- Emoji: 🦃
 - Serves: 18
 
 ## Description

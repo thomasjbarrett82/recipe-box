@@ -4,6 +4,7 @@
 
 - Tags: Drink, Quick, Holiday, Favorite
 - Image: /images/russian-tea.jpg
+- Emoji: 🫖
 - Serves: 28
 
 ## Description

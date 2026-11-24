@@ -5,6 +5,7 @@
 - Tags: Dessert, Gluten free, High fiber
 - Source: @bdylanhollis
 - Image: /images/pinto-bean-cake-gf.jpg
+- Emoji: 🫘
 - Serves: 12
 
 ## Description

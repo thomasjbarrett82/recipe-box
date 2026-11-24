@@ -4,6 +4,7 @@
 
 - Tags: Soup, Dutch oven, High fiber
 - Image: /images/cabbage-soup.jpg
+- Emoji: 🥬
 - Serves: 10
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Vegetarian
 - Image: /images/tomato-sauce.jpg
+- Emoji: 🍅
 - Serves: 12
 
 ## Description

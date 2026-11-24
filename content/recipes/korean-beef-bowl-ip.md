@@ -5,6 +5,7 @@
 - Tags: Main, Spicy, Instant Pot
 - Source: Two Sleevers
 - Image: /images/korean-beef-bowl-ip.jpg
+- Emoji: 🍚
 - Serves: 4
 
 ## Description

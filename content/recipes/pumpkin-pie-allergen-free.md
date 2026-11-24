@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Gluten free, Dairy free, Holiday
 - Image: /images/pumpkin-pie-allergen-free.jpg
+- Emoji: 🎃
 - Serves: 8
 
 ## Description

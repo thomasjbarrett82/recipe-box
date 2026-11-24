@@ -4,6 +4,7 @@
 
 - Tags: Side, Quick, Vegetarian, Vegan, High fiber
 - Image: /images/pan-fried-beans-wilted-greens.jpg
+- Emoji: 🥬
 - Serves: 4
 
 ## Description

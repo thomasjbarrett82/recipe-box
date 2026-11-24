@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/corn-sugar-cookies.jpg
+- Emoji: 🍪
 - Serves: 12
 
 ## Description

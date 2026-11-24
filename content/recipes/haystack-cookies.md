@@ -5,6 +5,7 @@
 - Tags: Dessert, Minnesota
 - Source: @bdylanhollis
 - Image: /images/haystack-cookies.jpg
+- Emoji: 🌾
 - Serves: 15
 
 ## Description

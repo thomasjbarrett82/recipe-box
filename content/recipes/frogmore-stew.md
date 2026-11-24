@@ -4,6 +4,7 @@
 
 - Tags: Stew, Spicy
 - Image: /images/frogmore-stew.jpg
+- Emoji: 🦐
 - Serves: 10
 
 ## Description

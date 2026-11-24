@@ -4,6 +4,7 @@
 
 - Tags: Stew, Spicy, Instant Pot, Vegetarian, Vegan, High fiber
 - Image: /images/black-bean-stew-vegan.jpg
+- Emoji: 🫘
 - Serves: 6
 
 ## Description

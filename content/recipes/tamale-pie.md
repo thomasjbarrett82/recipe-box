@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/tamale-pie.jpg
+- Emoji: 🫔
 - Serves: 8
 
 ## Description

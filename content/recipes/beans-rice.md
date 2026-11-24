@@ -4,6 +4,7 @@
 
 - Tags: Main, Instant Pot, High fiber, Favorite
 - Image: /images/beans-rice.jpg
+- Emoji: 🫘
 - Serves: 8
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Drink, Quick, Holiday
 - Image: /images/hot-chocolate-mix.jpg
+- Emoji: ☕
 - Serves: 32
 
 ## Description

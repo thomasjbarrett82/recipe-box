@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/bourbon-crisp.jpg
+- Emoji: 🥃
 - Serves: 6
 
 ## Description

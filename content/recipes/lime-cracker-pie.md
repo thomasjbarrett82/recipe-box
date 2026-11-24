@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/lime-cracker-pie.jpg
+- Emoji: 🍋
 - Serves: 12
 
 ## Description

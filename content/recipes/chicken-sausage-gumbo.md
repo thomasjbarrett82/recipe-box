@@ -4,6 +4,7 @@
 
 - Tags: Stew, Spicy
 - Image: /images/chicken-sausage-gumbo.jpg
+- Emoji: 🍲
 - Serves: 8
 
 ## Description

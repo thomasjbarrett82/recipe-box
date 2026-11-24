@@ -4,6 +4,7 @@
 
 - Tags: Bread, Favorite
 - Image: /images/cornbread.jpg
+- Emoji: 🌽
 - Serves: 9
 
 ## Description

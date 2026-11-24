@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/cheesy-chicken-pot-pie.jpg
+- Emoji: 🥧
 - Serves: 6
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Main, Favorite
 - Source: Pillsbury Cookbook
 - Image: /images/meatloaf.jpg
+- Emoji: 🍖
 - Serves: 8
 
 ## Description

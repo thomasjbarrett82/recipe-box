@@ -4,6 +4,7 @@
 
 - Tags: Main, Holiday
 - Image: /images/easter-ham.jpg
+- Emoji: 🐣
 - Serves: About 45
 
 ## Description

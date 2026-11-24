@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Vegetarian, Favorite
 - Image: /images/pancakes-allergen-free.jpg
+- Emoji: 🥞
 - Serves: 4
 
 ## Description

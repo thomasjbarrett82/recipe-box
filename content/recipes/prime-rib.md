@@ -5,6 +5,7 @@
 - Tags: Main, Grill, Smoker, Holiday, Favorite
 - Source: Serious Eats
 - Image: /images/prime-rib.jpg
+- Emoji: 🥩
 - Serves: About 1 per 340 g (¾ lb) of bone-in roast
 
 ## Description

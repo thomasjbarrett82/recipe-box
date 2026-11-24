@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: Tara
 - Image: /images/apple-squares.jpg
+- Emoji: 🍏
 - Serves: 24
 
 ## Description

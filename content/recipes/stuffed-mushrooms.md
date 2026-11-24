@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Vegetarian, Holiday
 - Image: /images/stuffed-mushrooms.jpg
+- Emoji: 🍄
 - Serves: 6
 
 ## Description

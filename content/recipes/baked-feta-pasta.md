@@ -4,6 +4,7 @@
 
 - Tags: Pasta
 - Image: /images/baked-feta-pasta.jpg
+- Emoji: 🍝
 - Serves: 6
 
 ## Description

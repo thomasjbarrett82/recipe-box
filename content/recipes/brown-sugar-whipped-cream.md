@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Quick
 - Image: /images/brown-sugar-whipped-cream.jpg
+- Emoji: 🍨
 - Serves: 6
 
 ## Description

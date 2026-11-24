@@ -5,6 +5,7 @@
 - Tags: Main, High fiber, Favorite
 - Source: Josh Cortis
 - Image: /images/cheesesteak-sloppy-joe-bowls.jpg
+- Emoji: 🥪
 - Serves: 5
 
 ## Description

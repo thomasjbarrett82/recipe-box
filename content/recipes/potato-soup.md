@@ -4,6 +4,7 @@
 
 - Tags: Soup
 - Image: /images/potato-soup.jpg
+- Emoji: 🥔
 - Serves: 9
 
 ## Description

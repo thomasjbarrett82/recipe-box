@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/pie-dough.jpg
+- Emoji: 🥧
 - Serves: 8
 
 ## Description

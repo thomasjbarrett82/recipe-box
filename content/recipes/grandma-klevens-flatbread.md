@@ -5,6 +5,7 @@
 - Tags: Bread, Holiday, Minnesota
 - Source: Judy Munson
 - Image: /images/grandma-klevens-flatbread.jpg
+- Emoji: 🫓
 - Serves: 16
 
 ## Description

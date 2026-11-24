@@ -5,6 +5,7 @@
 - Tags: Side, Quick, Vegetarian
 - Source: Serious Eats
 - Image: /images/coleslaw.jpg
+- Emoji: 🥗
 - Serves: 12
 
 ## Description

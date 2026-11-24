@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/tuna-steaks.jpg
+- Emoji: 🐟
 - Serves: 4
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, Instant Pot, High fiber
 - Image: /images/black-beans-ip.jpg
+- Emoji: 🫘
 - Serves: 14
 
 ## Description

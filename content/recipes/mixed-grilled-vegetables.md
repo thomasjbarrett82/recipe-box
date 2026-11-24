@@ -4,6 +4,7 @@
 
 - Tags: Side, Quick, Grill, Vegetarian, Vegan
 - Image: /images/mixed-grilled-vegetables.jpg
+- Emoji: 🍆
 - Serves: 4
 
 ## Description

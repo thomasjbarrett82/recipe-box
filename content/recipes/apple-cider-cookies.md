@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/apple-cider-cookies.jpg
+- Emoji: 🍎
 - Serves: 18
 
 ## Description

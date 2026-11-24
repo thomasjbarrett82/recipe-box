@@ -5,6 +5,7 @@
 - Tags: Main, High fiber
 - Source: The Plant Slant
 - Image: /images/greek-style-chicken-spinach-salad.jpg
+- Emoji: 🥗
 - Serves: 6
 
 ## Description

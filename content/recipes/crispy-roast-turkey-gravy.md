@@ -4,6 +4,7 @@
 
 - Tags: Main, Holiday, Favorite
 - Image: /images/crispy-roast-turkey-gravy.jpg
+- Emoji: 🦃
 - Serves: 17
 
 ## Description

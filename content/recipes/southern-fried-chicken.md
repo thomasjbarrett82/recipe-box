@@ -4,6 +4,7 @@
 
 - Tags: Main, Favorite
 - Image: /images/southern-fried-chicken.jpg
+- Emoji: 🍗
 - Serves: 5
 
 ## Description

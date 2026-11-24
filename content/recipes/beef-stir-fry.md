@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/beef-stir-fry.jpg
+- Emoji: 🥢
 - Serves: 4
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Dessert, Favorite
 - Source: Alton Brown
 - Image: /images/rice-krispie-treats-fancy.jpg
+- Emoji: 🍫
 - Serves: 24
 
 ## Description

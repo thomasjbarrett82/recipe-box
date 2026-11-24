@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Favorite
 - Image: /images/pizza-casserole.jpg
+- Emoji: 🍕
 - Serves: 8
 
 ## Description

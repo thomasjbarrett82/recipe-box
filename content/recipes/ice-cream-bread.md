@@ -5,6 +5,7 @@
 - Tags: Bread
 - Source: @bdylanhollis
 - Image: /images/ice-cream-bread.jpg
+- Emoji: 🍦
 - Serves: 10
 
 ## Description

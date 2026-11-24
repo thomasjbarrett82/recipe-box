@@ -5,6 +5,7 @@
 - Tags: Main, High fiber, Favorite
 - Source: Subversive Table
 - Image: /images/pizza-beans.jpg
+- Emoji: 🍕
 - Serves: 6
 
 ## Description

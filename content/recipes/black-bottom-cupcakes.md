@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: Tara
 - Image: /images/black-bottom-cupcakes.jpg
+- Emoji: 🧁
 - Serves: 18
 
 ## Description

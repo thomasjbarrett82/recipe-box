@@ -4,6 +4,7 @@
 
 - Tags: Stew, Spicy, Dutch oven, Favorite
 - Image: /images/jambalaya.jpg
+- Emoji: 🥘
 - Serves: 8
 
 ## Description

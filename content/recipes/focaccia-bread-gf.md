@@ -5,6 +5,7 @@
 - Tags: Bread, Vegetarian, Vegan, Gluten free
 - Source: Tom
 - Image: /images/focaccia-bread-gf.jpg
+- Emoji: 🫒
 - Serves: 8
 
 ## Description

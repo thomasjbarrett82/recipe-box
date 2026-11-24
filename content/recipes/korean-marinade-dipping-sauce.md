@@ -5,6 +5,7 @@
 - Tags: Main, Quick, Spicy, Favorite
 - Source: DJU
 - Image: /images/korean-marinade-dipping-sauce.jpg
+- Emoji: 🫙
 - Serves: 26
 
 ## Description

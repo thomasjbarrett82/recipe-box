@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Spicy
 - Image: /images/oven-fried-buffalo-wings.jpg
+- Emoji: 🍗
 - Serves: About 1½ per pound of wings
 
 ## Description

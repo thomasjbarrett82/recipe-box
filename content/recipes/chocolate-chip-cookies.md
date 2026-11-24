@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Quick
 - Image: /images/chocolate-chip-cookies.jpg
+- Emoji: 🍪
 - Serves: 20
 
 ## Description

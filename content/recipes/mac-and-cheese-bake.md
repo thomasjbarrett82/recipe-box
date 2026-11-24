@@ -5,6 +5,7 @@
 - Tags: Pasta, Holiday, Favorite
 - Source: Tom
 - Image: /images/mac-and-cheese-bake.jpg
+- Emoji: 🧀
 - Serves: 12
 
 ## Description

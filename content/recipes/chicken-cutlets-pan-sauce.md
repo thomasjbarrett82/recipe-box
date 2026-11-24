@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick
 - Image: /images/chicken-cutlets-pan-sauce.jpg
+- Emoji: 🍗
 - Serves: 4
 
 ## Description

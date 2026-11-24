@@ -4,6 +4,7 @@
 
 - Tags: Main, Vegetarian
 - Image: /images/pizza-pizza.jpg
+- Emoji: 🍕
 - Serves: 4
 
 ## Description

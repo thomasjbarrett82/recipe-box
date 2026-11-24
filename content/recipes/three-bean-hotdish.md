@@ -4,6 +4,7 @@
 
 - Tags: Side, Slow cooker, High fiber, Minnesota, Favorite
 - Image: /images/three-bean-hotdish.jpg
+- Emoji: 🫘
 - Serves: 10
 
 ## Description

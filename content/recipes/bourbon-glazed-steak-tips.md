@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/bourbon-glazed-steak-tips.jpg
+- Emoji: 🥩
 - Serves: 6
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Main, Instant Pot
 - Image: /images/pork-chops-rice-ip.jpg
+- Emoji: 🐖
 - Serves: 6
 
 ## Description

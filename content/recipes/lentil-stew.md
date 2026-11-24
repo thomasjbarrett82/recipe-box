@@ -5,6 +5,7 @@
 - Tags: Stew, Vegetarian, Vegan, High fiber, Favorite
 - Source: Derek Sarno
 - Image: /images/lentil-stew.jpg
+- Emoji: 🍲
 - Serves: 6
 
 ## Description

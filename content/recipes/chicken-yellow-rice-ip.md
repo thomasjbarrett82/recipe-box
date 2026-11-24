@@ -4,6 +4,7 @@
 
 - Tags: Main, Instant Pot, High fiber, Favorite
 - Image: /images/chicken-yellow-rice-ip.jpg
+- Emoji: 🍚
 - Serves: 6
 
 ## Description

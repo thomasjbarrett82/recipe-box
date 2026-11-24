@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Vegetarian
 - Image: /images/seven-layer-dip.jpg
+- Emoji: 🥑
 - Serves: 10
 
 ## Description

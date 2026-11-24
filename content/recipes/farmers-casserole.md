@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Holiday
 - Image: /images/farmers-casserole.jpg
+- Emoji: 🚜
 - Serves: 8
 
 ## Description

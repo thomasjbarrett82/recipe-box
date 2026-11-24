@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Quick, Favorite
 - Image: /images/oatmeal-raisin-cookies.jpg
+- Emoji: 🍪
 - Serves: 18
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Main, Instant Pot, Favorite
 - Source: Two Sleevers
 - Image: /images/butter-chicken-ip.jpg
+- Emoji: 🍛
 - Serves: 4
 
 ## Description

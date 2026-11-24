@@ -5,6 +5,7 @@
 - Tags: Bread
 - Source: @bdylanhollis
 - Image: /images/rice-corn-bread.jpg
+- Emoji: 🌽
 - Serves: 9
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Soup, Dutch oven, Favorite
 - Image: /images/sausage-tortellini-soup.jpg
+- Emoji: 🍲
 - Serves: 8
 
 ## Description

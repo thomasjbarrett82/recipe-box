@@ -34,6 +34,15 @@ const ICON = {
 */
 const HEAD_SCRIPT = "<script>document.documentElement.classList.remove('no-js');try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>";
 
+// A browser tab icon showing one emoji, as an inline SVG so it needs no extra file.
+function emojiIcon(emoji) {
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text x="50" y=".9em" font-size="90" text-anchor="middle">${emoji}</text></svg>`;
+  return 'data:image/svg+xml,' + encodeURIComponent(svg);
+}
+
+/*
+  p.icon: an emoji for the browser tab icon (recipe pages); otherwise the site's "RB" icon.
+*/
 function layout(ctx, p) {
   const title = p.title ? `${p.title} · ${SITE_NAME}` : SITE_NAME;
   const meta = [];
@@ -56,6 +65,7 @@ function layout(ctx, p) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
+<link rel="icon" type="image/svg+xml" href="${esc(p.icon ? emojiIcon(p.icon) : ctx.asset('favicon.svg'))}">
 ${meta.join('\n')}
 ${HEAD_SCRIPT}
 <link rel="preload" href="${ctx.asset('fonts/dm-sans-latin-wght-normal.woff2')}" as="font" type="font/woff2" crossorigin>
@@ -347,6 +357,7 @@ ${notesHtml}
     canonical,
     ogType: 'article',
     ogImage,
+    icon: r.emoji,
     bodyClass: 'recipe-page',
     print: true,
     body,

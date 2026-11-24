@@ -5,6 +5,7 @@
 - Tags: Side, Spicy, Favorite
 - Source: <https://mykoreankitchen.com/kimchi-recipe/>
 - Image: /images/kimchi.jpg
+- Emoji: 🥬
 - Serves: 12
 
 ## Description

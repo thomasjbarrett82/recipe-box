@@ -5,6 +5,7 @@
 - Tags: Dessert, Gluten free, Holiday
 - Source: B. Dylan Hollis
 - Image: /images/pumpkin-graham-cake-gf.jpg
+- Emoji: 🎃
 - Serves: 10
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Minnesota
 - Image: /images/peanut-butter-krispie-bars.jpg
+- Emoji: 🥜
 - Serves: 24
 
 ## Description

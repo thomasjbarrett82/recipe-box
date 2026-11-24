@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/mud-pies.jpg
+- Emoji: 🍫
 - Serves: 18
 
 ## Description

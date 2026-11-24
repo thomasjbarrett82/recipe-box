@@ -6,6 +6,7 @@
 - Author: Tom Barrett
 - Source: [Brian Lagerstrom](https://www.youtube.com/watch?v=yKWWRlh8qeE)
 - Image: /images/one-pot-pasta.jpg
+- Emoji: 🍝
 - Serves: 8
 
 ## Description

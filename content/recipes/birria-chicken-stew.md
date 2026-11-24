@@ -5,6 +5,7 @@
 - Tags: Stew, Spicy, Slow cooker, High fiber
 - Source: Tom
 - Image: /images/birria-chicken-stew.jpg
+- Emoji: 🌶️
 - Serves: 6
 
 ## Description

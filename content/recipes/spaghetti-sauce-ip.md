@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Instant Pot, High fiber
 - Image: /images/spaghetti-sauce-ip.jpg
+- Emoji: 🍅
 - Serves: 6
 
 ## Description

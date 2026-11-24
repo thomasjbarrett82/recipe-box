@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy, Slow cooker, High fiber
 - Image: /images/santa-fe-chicken.jpg
+- Emoji: 🌵
 - Serves: 4
 
 ## Description

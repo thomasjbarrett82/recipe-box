@@ -5,6 +5,7 @@
 - Tags: Dessert, Holiday
 - Source: @bdylanhollis
 - Image: /images/almond-joys.jpg
+- Emoji: 🥥
 - Serves: 48
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Main, Favorite
 - Source: Two Sleevers
 - Image: /images/butter-chicken.jpg
+- Emoji: 🍛
 - Serves: 4
 
 ## Description

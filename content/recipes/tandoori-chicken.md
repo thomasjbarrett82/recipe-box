@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/tandoori-chicken.jpg
+- Emoji: 🍗
 - Serves: 4
 
 ## Description

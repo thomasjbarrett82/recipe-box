@@ -5,6 +5,7 @@
 - Tags: Main, Quick
 - Source: Tara
 - Image: /images/broiled-cod.jpg
+- Emoji: 🐟
 - Serves: 4
 
 ## Description

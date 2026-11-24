@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/potato-chip-cookies.jpg
+- Emoji: 🥔
 - Serves: 24
 
 ## Description

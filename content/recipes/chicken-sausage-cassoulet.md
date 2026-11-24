@@ -4,6 +4,7 @@
 
 - Tags: Stew, Slow cooker, High fiber
 - Image: /images/chicken-sausage-cassoulet.jpg
+- Emoji: 🫘
 - Serves: 5
 
 ## Description

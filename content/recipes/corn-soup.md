@@ -4,6 +4,7 @@
 
 - Tags: Soup, Dutch oven, Vegetarian
 - Image: /images/corn-soup.jpg
+- Emoji: 🌽
 - Serves: 5
 
 ## Description

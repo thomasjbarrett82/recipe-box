@@ -4,6 +4,7 @@
 
 - Tags: Main, Smoker, Favorite
 - Image: /images/pulled-pork-bbq.jpg
+- Emoji: 🐷
 - Serves: 12
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Stew, Slow cooker, Vegetarian, Vegan, High fiber, Favorite
 - Source: Tom
 - Image: /images/african-peanut-stew.jpg
+- Emoji: 🥜
 - Serves: 8
 
 ## Description

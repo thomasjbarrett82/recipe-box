@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/pan-seared-pork-chops.jpg
+- Emoji: 🐖
 - Serves: 2
 
 ## Description

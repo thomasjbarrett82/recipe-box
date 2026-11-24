@@ -4,6 +4,7 @@
 
 - Tags: Main, Instant Pot
 - Image: /images/crispy-carnitas.jpg
+- Emoji: 🐖
 - Serves: 11
 
 ## Description

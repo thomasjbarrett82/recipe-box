@@ -5,6 +5,7 @@
 - Tags: Dessert, Holiday
 - Source: Tara
 - Image: /images/almond-bark-crunch.jpg
+- Emoji: 🍫
 - Serves: 16
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Breakfast, Quick, Vegetarian
 - Source: Instagram
 - Image: /images/protein-waffles.jpg
+- Emoji: 🧇
 - Serves: 2
 
 ## Description

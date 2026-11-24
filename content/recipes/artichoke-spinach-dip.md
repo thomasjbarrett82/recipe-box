@@ -5,6 +5,7 @@
 - Tags: Appetizer, Vegetarian
 - Source: Tara
 - Image: /images/artichoke-spinach-dip.jpg
+- Emoji: 🥬
 - Serves: 16
 
 ## Description

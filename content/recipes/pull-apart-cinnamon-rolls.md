@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Vegetarian
 - Image: /images/pull-apart-cinnamon-rolls.jpg
+- Emoji: 🥐
 - Serves: 12
 
 ## Description

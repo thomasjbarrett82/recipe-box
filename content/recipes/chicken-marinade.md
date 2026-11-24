@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/chicken-marinade.jpg
+- Emoji: 🍗
 - Serves: 6
 
 ## Description

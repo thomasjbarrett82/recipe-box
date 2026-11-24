@@ -4,6 +4,7 @@
 
 - Tags: Main, Minnesota
 - Image: /images/taco-tot-hotdish.jpg
+- Emoji: 🌮
 - Serves: 8
 
 ## Description

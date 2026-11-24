@@ -4,6 +4,7 @@
 
 - Tags: Stew, Instant Pot, High fiber, Favorite
 - Image: /images/beef-cabbage-stew.jpg
+- Emoji: 🥬
 - Serves: 6
 
 ## Description

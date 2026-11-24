@@ -5,6 +5,7 @@
 - Tags: Stew, Dutch oven, High fiber
 - Source: Mayo Clinic
 - Image: /images/italian-turkey-stew.jpg
+- Emoji: 🦃
 - Serves: 5
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Soup, Dutch oven, Minnesota
 - Image: /images/beef-mushroom-soup.jpg
+- Emoji: 🍄
 - Serves: 6
 
 ## Description

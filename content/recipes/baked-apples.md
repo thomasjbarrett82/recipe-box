@@ -5,6 +5,7 @@
 - Tags: Dessert, High fiber
 - Source: @bdylanhollis
 - Image: /images/baked-apples.jpg
+- Emoji: 🍎
 - Serves: 3
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Quick, Vegetarian, Vegan, Dairy free
 - Image: /images/mac-and-cheese-df.jpg
+- Emoji: 🧀
 - Serves: 6
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Soup
 - Image: /images/chicken-dumplings.jpg
+- Emoji: 🥟
 - Serves: 6
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Main, Quick, High fiber
 - Source: That Midwestern Mom
 - Image: /images/eggroll-in-a-bowl.jpg
+- Emoji: 🥢
 - Serves: 4
 
 ## Description

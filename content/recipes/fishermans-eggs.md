@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Favorite
 - Image: /images/fishermans-eggs.jpg
+- Emoji: 🎣
 - Serves: 1
 
 ## Description

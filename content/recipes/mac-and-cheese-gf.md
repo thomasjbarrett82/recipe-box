@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Quick, Vegetarian, Gluten free
 - Image: /images/mac-and-cheese-gf.jpg
+- Emoji: 🧀
 - Serves: 6
 
 ## Description

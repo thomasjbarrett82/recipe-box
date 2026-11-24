@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick
 - Image: /images/dorito-dip.jpg
+- Emoji: 🔺
 - Serves: 12
 
 ## Description

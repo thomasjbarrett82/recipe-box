@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/chocolate-pie.jpg
+- Emoji: 🥧
 - Serves: 8
 
 ## Description

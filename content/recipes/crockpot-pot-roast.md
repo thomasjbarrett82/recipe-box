@@ -4,6 +4,7 @@
 
 - Tags: Main, Slow cooker, Favorite
 - Image: /images/crockpot-pot-roast.jpg
+- Emoji: 🥩
 - Serves: 7
 
 ## Description

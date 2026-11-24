@@ -4,6 +4,7 @@
 
 - Tags: Side
 - Image: /images/mashed-pro-tatoes.jpg
+- Emoji: 💪
 - Serves: 12
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Minnesota
 - Image: /images/special-k-bars.jpg
+- Emoji: 🥣
 - Serves: 24
 
 ## Description

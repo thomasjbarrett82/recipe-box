@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/chocolate-mayo-cake.jpg
+- Emoji: 🎂
 - Serves: 15
 
 ## Description

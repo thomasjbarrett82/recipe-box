@@ -5,6 +5,7 @@
 - Tags: Breakfast
 - Source: My Crazy Good Life
 - Image: /images/sausage-zucchini-egg-bake.jpg
+- Emoji: 🥒
 - Serves: 8
 
 ## Description

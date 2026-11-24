@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy, Dutch oven, Favorite
 - Image: /images/general-tsos-chicken.jpg
+- Emoji: 🥡
 - Serves: 4
 
 ## Description

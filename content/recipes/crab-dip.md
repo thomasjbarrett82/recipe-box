@@ -4,6 +4,7 @@
 
 - Tags: Appetizer
 - Image: /images/crab-dip.jpg
+- Emoji: 🦀
 - Serves: 12
 
 ## Description

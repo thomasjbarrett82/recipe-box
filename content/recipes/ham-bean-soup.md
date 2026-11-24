@@ -4,6 +4,7 @@
 
 - Tags: Soup, Slow cooker, High fiber, Favorite
 - Image: /images/ham-bean-soup.jpg
+- Emoji: 🍖
 - Serves: 10
 
 ## Description

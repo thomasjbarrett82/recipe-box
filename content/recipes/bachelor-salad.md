@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill, High fiber, Favorite
 - Image: /images/bachelor-salad.jpg
+- Emoji: 🥗
 - Serves: 4
 
 ## Description

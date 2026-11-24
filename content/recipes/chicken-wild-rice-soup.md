@@ -5,6 +5,7 @@
 - Tags: Soup, Dutch oven, Minnesota, Favorite
 - Source: Serious Eats
 - Image: /images/chicken-wild-rice-soup.jpg
+- Emoji: 🌾
 - Serves: 10
 
 ## Description

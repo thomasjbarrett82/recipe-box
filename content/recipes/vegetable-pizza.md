@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Vegetarian, Minnesota
 - Image: /images/vegetable-pizza.jpg
+- Emoji: 🥦
 - Serves: 12
 
 ## Description

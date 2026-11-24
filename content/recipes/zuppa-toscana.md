@@ -5,6 +5,7 @@
 - Tags: Soup, Dutch oven, High fiber, Favorite
 - Source: Tom
 - Image: /images/zuppa-toscana.jpg
+- Emoji: 🍲
 - Serves: 7
 
 ## Description

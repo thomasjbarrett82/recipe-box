@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/cheesecake.jpg
+- Emoji: 🍰
 - Serves: 12
 
 ## Description

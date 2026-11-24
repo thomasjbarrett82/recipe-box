@@ -4,6 +4,7 @@
 
 - Tags: Main, High fiber
 - Image: /images/greek-style-shrimp-cannellini-beans.jpg
+- Emoji: 🍤
 - Serves: 4
 
 ## Description

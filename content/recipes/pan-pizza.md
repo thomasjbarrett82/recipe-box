@@ -4,6 +4,7 @@
 
 - Tags: Main, Vegetarian, Favorite
 - Image: /images/pan-pizza.jpg
+- Emoji: 🍕
 - Serves: 8
 
 ## Description

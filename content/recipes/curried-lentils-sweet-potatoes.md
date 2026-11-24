@@ -4,6 +4,7 @@
 
 - Tags: Main, Vegetarian, High fiber
 - Image: /images/curried-lentils-sweet-potatoes.jpg
+- Emoji: 🍛
 - Serves: 5
 
 ## Description

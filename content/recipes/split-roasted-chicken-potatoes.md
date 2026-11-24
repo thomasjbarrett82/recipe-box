@@ -4,6 +4,7 @@
 
 - Tags: Main, High fiber, Favorite
 - Image: /images/split-roasted-chicken-potatoes.jpg
+- Emoji: 🐔
 - Serves: 4
 
 ## Description

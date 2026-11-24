@@ -194,7 +194,7 @@ function build(opts = {}) {
   const index = recipes.map((r) => ({
     slug: r.slug, title: r.title, description: r.description, tags: r.tags,
     ingredients: r.ingredients, cardTime: r.cardTime, totalMinutes: r.totalMinutes,
-    swatch: r.swatch, image: r.image
+    swatch: r.swatch, image: r.image, emoji: r.emoji
   }));
   write(outDir, 'search-index.json', JSON.stringify(index));
 

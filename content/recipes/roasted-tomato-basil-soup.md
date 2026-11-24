@@ -4,6 +4,7 @@
 
 - Tags: Soup, Slow cooker, Vegetarian, Favorite
 - Image: /images/roasted-tomato-basil-soup.jpg
+- Emoji: 🍅
 - Serves: 6
 
 ## Description

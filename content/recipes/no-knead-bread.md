@@ -4,6 +4,7 @@
 
 - Tags: Bread, Dutch oven, Vegetarian, Vegan
 - Image: /images/no-knead-bread.jpg
+- Emoji: 🍞
 - Serves: 16
 
 ## Description

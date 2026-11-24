@@ -4,6 +4,7 @@
 
 - Tags: Main, Instant Pot, Minnesota
 - Image: /images/chicken-wild-rice-hotdish.jpg
+- Emoji: 🌾
 - Serves: 6
 
 ## Description

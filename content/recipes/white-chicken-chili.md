@@ -4,6 +4,7 @@
 
 - Tags: Stew, Spicy, Dutch oven, High fiber
 - Image: /images/white-chicken-chili.jpg
+- Emoji: 🤍
 - Serves: 10
 
 ## Description

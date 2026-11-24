@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/chocolate-pudding-pie-allergen-free.jpg
+- Emoji: 🍮
 - Serves: 8
 
 ## Description

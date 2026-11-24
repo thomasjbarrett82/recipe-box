@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick
 - Image: /images/pork-rub.jpg
+- Emoji: 🧂
 - Serves: 17
 
 ## Description

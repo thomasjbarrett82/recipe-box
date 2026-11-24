@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Vegetarian, Gluten free, Dairy free
 - Image: /images/waffles-paleo.jpg
+- Emoji: 🧇
 - Serves: 2
 
 ## Description

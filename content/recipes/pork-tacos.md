@@ -5,6 +5,7 @@
 - Tags: Main, Dutch oven, Favorite
 - Source: Brian Lagerstrom
 - Image: /images/pork-tacos.jpg
+- Emoji: 🌮
 - Serves: 12
 
 ## Description

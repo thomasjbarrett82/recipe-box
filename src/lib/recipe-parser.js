@@ -5,7 +5,7 @@
   parseRecipe(markdown, { filename, tags }) returns:
   {
     slug,                             // the file name without .md (there is no Slug field)
-    title, tags[], author, source: { text, url } | null, image, serves,
+    title, tags[], author, source: { text, url } | null, image, emoji, serves,
     description,                      // plain text
     cookTimes: [{ text, label, value }],   // "Prep: 15 min" -> label "Prep", value "15 min"; text is as written
     totalMinutes,                     // from the "Total" line (or the only line), null if unreadable; for sorting
@@ -26,7 +26,7 @@
 
   var SECTIONS = ['recipe data', 'description', 'cook times', 'ingredients', 'method', 'notes', 'nutrition'];
   var REQUIRED = ['recipe data', 'description', 'ingredients', 'method'];
-  var DATA_KEYS = ['tags', 'author', 'source', 'image', 'serves'];
+  var DATA_KEYS = ['tags', 'author', 'source', 'image', 'emoji', 'serves'];
 
   function RecipeFormatError(message, file, line) {
     var where = (file || 'recipe') + (line ? ':' + line : '');
@@ -64,6 +64,13 @@
   function keyValue(line) {
     var m = /^([^:]+):\s*(.*)$/.exec(stripMarker(line).trim());
     return m ? { key: m[1].trim(), value: m[2].trim() } : null;
+  }
+
+  // True when s is exactly one emoji, including multi-part ones like flags, skin tones and 👨‍🍳.
+  function isSingleEmoji(s) {
+    if (!/^(?:\p{Extended_Pictographic}|\p{Regional_Indicator})/u.test(s)) return false;
+    if (typeof Intl === 'undefined' || !Intl.Segmenter) return true;
+    return Array.from(new Intl.Segmenter().segment(s)).length === 1;
   }
 
   function parseSource(v) {
@@ -128,7 +135,7 @@
       if (!kv) throw RecipeFormatError('Recipe Data lines must look like "- Key: value"', file, l.n);
       var key = kv.key.toLowerCase();
       if (DATA_KEYS.indexOf(key) === -1) {
-        throw RecipeFormatError('unknown Recipe Data key "' + kv.key + '". Expected one of: Tags, Author, Source, Image, Serves' +
+        throw RecipeFormatError('unknown Recipe Data key "' + kv.key + '". Expected one of: Tags, Author, Source, Image, Emoji, Serves' +
           (key === 'slug' ? ' (the URL comes from the file name)' : ''), file, l.n);
       }
       if (data[key] !== undefined) throw RecipeFormatError('Recipe Data key "' + kv.key + '" appears twice', file, l.n);
@@ -143,6 +150,11 @@
           throw RecipeFormatError('tag "' + tg + '" is not in content/site.json. Known tags: ' + opts.tags.join(', '), file, data.tags.n);
         }
       });
+    }
+
+    var emoji = data.emoji ? data.emoji.value : '';
+    if (emoji && !isSingleEmoji(emoji)) {
+      throw RecipeFormatError('Emoji must be a single emoji, e.g. "- Emoji: 🍲" (got "' + emoji + '")', file, data.emoji.n);
     }
 
     // The URL slug is the file name. Without a file name (e.g. in tests), it comes from the title.
@@ -218,6 +230,7 @@
       author: data.author ? data.author.value : '',
       source: data.source && data.source.value ? parseSource(data.source.value) : null,
       image: data.image ? data.image.value : '',
+      emoji: emoji,
       serves: data.serves ? data.serves.value : '',
       description: description,
       cookTimes: cookTimes,

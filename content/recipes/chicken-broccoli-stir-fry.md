@@ -4,6 +4,7 @@
 
 - Tags: Main, Favorite
 - Image: /images/chicken-broccoli-stir-fry.jpg
+- Emoji: 🥦
 - Serves: 4
 
 ## Description

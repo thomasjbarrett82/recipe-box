@@ -4,6 +4,7 @@
 
 - Tags: Main, Favorite
 - Image: /images/smothered-pork-chops.jpg
+- Emoji: 🐖
 - Serves: 7
 
 ## Description

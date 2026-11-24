@@ -4,6 +4,7 @@
 
 - Tags: Bread, Holiday
 - Image: /images/irish-soda-bread.jpg
+- Emoji: 🍀
 - Serves: 12
 
 ## Description

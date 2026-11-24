@@ -4,6 +4,7 @@
 
 - Tags: Bread, Vegetarian, Vegan, Favorite
 - Image: /images/no-knead-focaccia.jpg
+- Emoji: 🫒
 - Serves: 12
 
 ## Description

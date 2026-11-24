@@ -5,6 +5,7 @@
 - Tags: Side, Vegetarian, Favorite
 - Source: Tom
 - Image: /images/brown-sugar-glazed-carrots.jpg
+- Emoji: 🥕
 - Serves: 6
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday, Minnesota
 - Image: /images/popcorn-cake.jpg
+- Emoji: 🍿
 - Serves: 16
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick, Gluten free
 - Image: /images/chex-party-mix-gf.jpg
+- Emoji: 🥨
 - Serves: 10
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Pasta, High fiber, Favorite
 - Image: /images/sausage-spinach-penne.jpg
+- Emoji: 🍝
 - Serves: 6
 
 ## Description

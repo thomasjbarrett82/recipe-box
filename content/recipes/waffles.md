@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Quick, Vegetarian
 - Image: /images/waffles.jpg
+- Emoji: 🧇
 - Serves: 4
 
 ## Description

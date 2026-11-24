@@ -5,6 +5,7 @@
 - Tags: Soup, Instant Pot
 - Source: Serious Eats
 - Image: /images/beef-vegetable-soup.jpg
+- Emoji: 🥕
 - Serves: 10
 
 ## Description

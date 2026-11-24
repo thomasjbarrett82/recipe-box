@@ -5,6 +5,7 @@
 - Tags: Main, High fiber, Favorite
 - Source: Taste of Home
 - Image: /images/easy-taco-skillet.jpg
+- Emoji: 🌮
 - Serves: 6
 
 ## Description

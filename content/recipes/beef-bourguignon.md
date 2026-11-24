@@ -5,6 +5,7 @@
 - Tags: Stew, Dutch oven, Holiday
 - Source: Adam Ragusea
 - Image: /images/beef-bourguignon.jpg
+- Emoji: 🍷
 - Serves: 8
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Breakfast
 - Image: /images/egg-bake.jpg
+- Emoji: 🥚
 - Serves: 12
 
 ## Description

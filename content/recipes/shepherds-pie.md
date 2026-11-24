@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/shepherds-pie.jpg
+- Emoji: 🐑
 - Serves: 6
 
 ## Description

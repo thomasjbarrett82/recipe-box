@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/rice-krispie-treats.jpg
+- Emoji: 🍬
 - Serves: 24
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Main, Favorite
 - Image: /images/baked-pork-chops-rice.jpg
+- Emoji: 🍚
 - Serves: 6
 
 ## Description

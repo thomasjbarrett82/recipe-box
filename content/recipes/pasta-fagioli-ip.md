@@ -4,6 +4,7 @@
 
 - Tags: Soup, Instant Pot, High fiber
 - Image: /images/pasta-fagioli-ip.jpg
+- Emoji: 🫘
 - Serves: 6
 
 ## Description

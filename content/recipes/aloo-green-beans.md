@@ -5,6 +5,7 @@
 - Tags: Side, Vegetarian, Vegan, High fiber
 - Source: Indian Healthy Recipes
 - Image: /images/aloo-green-beans.jpg
+- Emoji: 🥔
 - Serves: 4
 
 ## Description

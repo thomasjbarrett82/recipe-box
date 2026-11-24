@@ -4,6 +4,7 @@
 
 - Tags: Soup, Slow cooker, High fiber
 - Image: /images/pasta-fagioli.jpg
+- Emoji: 🫘
 - Serves: 6
 
 ## Description

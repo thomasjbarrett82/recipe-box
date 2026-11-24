@@ -5,6 +5,7 @@
 - Tags: Dessert, Holiday
 - Source: @bdylanhollis
 - Image: /images/ambrosia.jpg
+- Emoji: 🍊
 - Serves: 20
 
 ## Description

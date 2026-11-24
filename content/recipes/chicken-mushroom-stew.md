@@ -4,6 +4,7 @@
 
 - Tags: Stew, Slow cooker
 - Image: /images/chicken-mushroom-stew.jpg
+- Emoji: 🍄
 - Serves: 4
 
 ## Description

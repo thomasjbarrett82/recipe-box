@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick, Spicy
 - Image: /images/shrimp-fra-diavolo.jpg
+- Emoji: 🍤
 - Serves: 4
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Vegetarian, Vegan, Dairy free
 - Image: /images/whipped-topping-df.jpg
+- Emoji: 🍨
 - Serves: 10
 
 ## Description

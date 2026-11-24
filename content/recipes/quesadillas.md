@@ -5,6 +5,7 @@
 - Tags: Main, Quick, Favorite
 - Source: Tom
 - Image: /images/quesadillas.jpg
+- Emoji: 🧀
 - Serves: 4
 
 ## Description

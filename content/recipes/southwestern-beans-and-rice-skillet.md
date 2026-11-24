@@ -4,6 +4,7 @@
 
 - Tags: Main, Dutch oven, High fiber
 - Image: /images/southwestern-beans-and-rice-skillet.jpg
+- Emoji: 🌵
 - Serves: 8
 
 ## Description

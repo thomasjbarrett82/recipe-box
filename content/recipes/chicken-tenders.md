@@ -5,6 +5,7 @@
 - Tags: Main, Quick
 - Source: Judy
 - Image: /images/chicken-tenders.jpg
+- Emoji: 🍗
 - Serves: 2
 
 ## Description

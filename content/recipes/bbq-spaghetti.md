@@ -5,6 +5,7 @@
 - Tags: Pasta
 - Source: The Neelys
 - Image: /images/bbq-spaghetti.jpg
+- Emoji: 🍝
 - Serves: 8
 
 ## Description

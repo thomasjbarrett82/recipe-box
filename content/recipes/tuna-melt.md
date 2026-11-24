@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick
 - Image: /images/tuna-melt.jpg
+- Emoji: 🥪
 - Serves: 2
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/beef-stroganoff.jpg
+- Emoji: 🥩
 - Serves: 6
 
 ## Description

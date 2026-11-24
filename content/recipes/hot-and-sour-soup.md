@@ -5,6 +5,7 @@
 - Tags: Soup, Spicy
 - Source: Tom
 - Image: /images/hot-and-sour-soup.jpg
+- Emoji: 🍲
 - Serves: 7
 
 ## Description

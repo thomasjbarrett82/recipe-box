@@ -4,6 +4,7 @@
 
 - Tags: Soup, Minnesota
 - Image: /images/wild-rice-cheese-soup.jpg
+- Emoji: 🌾
 - Serves: 8
 
 ## Description

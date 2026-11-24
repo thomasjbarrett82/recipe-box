@@ -4,6 +4,7 @@
 
 - Tags: Bread, Vegetarian, Vegan
 - Image: /images/subway-bread.jpg
+- Emoji: 🥖
 - Serves: 8
 
 ## Description

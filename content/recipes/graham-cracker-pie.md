@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Minnesota, Favorite
 - Image: /images/graham-cracker-pie.jpg
+- Emoji: 🥧
 - Serves: 8
 
 ## Description

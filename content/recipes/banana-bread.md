@@ -4,6 +4,7 @@
 
 - Tags: Bread, Favorite
 - Image: /images/banana-bread.jpg
+- Emoji: 🍌
 - Serves: 20
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Soup, Vegetarian, Vegan, High fiber
 - Image: /images/garlic-butternut-squash-soup.jpg
+- Emoji: 🧄
 - Serves: 6
 
 ## Description

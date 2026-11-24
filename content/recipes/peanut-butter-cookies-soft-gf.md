@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Gluten free
 - Image: /images/peanut-butter-cookies-soft-gf.jpg
+- Emoji: 🥜
 - Serves: 38
 
 ## Description

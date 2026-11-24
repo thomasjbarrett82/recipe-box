@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick, High fiber
 - Image: /images/fish-tacos.jpg
+- Emoji: 🐟
 - Serves: 4
 
 ## Description

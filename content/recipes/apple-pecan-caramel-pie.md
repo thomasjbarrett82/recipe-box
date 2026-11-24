@@ -4,6 +4,7 @@
 
 - Tags: Dessert, High fiber, Holiday
 - Image: /images/apple-pecan-caramel-pie.jpg
+- Emoji: 🥧
 - Serves: 10
 
 ## Description

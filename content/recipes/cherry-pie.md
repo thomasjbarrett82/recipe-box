@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Favorite
 - Image: /images/cherry-pie.jpg
+- Emoji: 🍒
 - Serves: 8
 
 ## Description

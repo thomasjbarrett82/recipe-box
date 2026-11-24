@@ -4,6 +4,7 @@
 
 - Tags: Main, Instant Pot
 - Image: /images/chicken-shawarma.jpg
+- Emoji: 🥙
 - Serves: 8
 
 ## Description

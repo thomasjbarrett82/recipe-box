@@ -5,6 +5,7 @@
 - Tags: Soup
 - Source: Adam Ragusea
 - Image: /images/chicken-noodle-soup.jpg
+- Emoji: 🍜
 - Serves: 10
 
 ## Description

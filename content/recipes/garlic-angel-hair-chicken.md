@@ -4,6 +4,7 @@
 
 - Tags: Pasta
 - Image: /images/garlic-angel-hair-chicken.jpg
+- Emoji: 🧄
 - Serves: 6
 
 ## Description

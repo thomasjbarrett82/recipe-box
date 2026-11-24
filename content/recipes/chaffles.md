@@ -5,6 +5,7 @@
 - Tags: Breakfast, Quick, Vegetarian
 - Source: Tom
 - Image: /images/chaffles.jpg
+- Emoji: 🧇
 - Serves: 3
 
 ## Description

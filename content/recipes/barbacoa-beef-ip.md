@@ -5,6 +5,7 @@
 - Tags: Main, Spicy, Instant Pot
 - Source: Tom
 - Image: /images/barbacoa-beef-ip.jpg
+- Emoji: 🌮
 - Serves: 9
 
 ## Description

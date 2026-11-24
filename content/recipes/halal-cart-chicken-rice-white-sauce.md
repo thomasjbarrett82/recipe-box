@@ -4,6 +4,7 @@
 
 - Tags: Main, Dutch oven, Favorite
 - Image: /images/halal-cart-chicken-rice-white-sauce.jpg
+- Emoji: 🍚
 - Serves: 6
 
 ## Description

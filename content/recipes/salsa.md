@@ -5,6 +5,7 @@
 - Tags: Appetizer, Spicy, Vegetarian, Vegan, Favorite
 - Source: Serious Eats
 - Image: /images/salsa.jpg
+- Emoji: 🍅
 - Serves: 12
 
 ## Description

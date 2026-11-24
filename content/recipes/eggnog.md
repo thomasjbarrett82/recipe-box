@@ -5,6 +5,7 @@
 - Tags: Drink, Holiday
 - Source: @bdylanhollis
 - Image: /images/eggnog.jpg
+- Emoji: 🥛
 - Serves: 9
 
 ## Description

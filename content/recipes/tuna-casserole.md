@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Minnesota, Favorite
 - Image: /images/tuna-casserole.jpg
+- Emoji: 🐟
 - Serves: 8
 
 ## Description

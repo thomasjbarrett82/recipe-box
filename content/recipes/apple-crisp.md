@@ -4,6 +4,7 @@
 
 - Tags: Dessert, High fiber, Favorite
 - Image: /images/apple-crisp.jpg
+- Emoji: 🍎
 - Serves: 8
 
 ## Description

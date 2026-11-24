@@ -5,6 +5,7 @@
 - Tags: Appetizer
 - Source: ?
 - Image: /images/scotch-eggs.jpg
+- Emoji: 🥚
 - Serves: 6
 
 ## Description

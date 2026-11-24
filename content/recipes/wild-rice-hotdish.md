@@ -4,6 +4,7 @@
 
 - Tags: Main, Minnesota
 - Image: /images/wild-rice-hotdish.jpg
+- Emoji: 🌾
 - Serves: 6
 
 ## Description

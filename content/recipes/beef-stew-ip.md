@@ -4,6 +4,7 @@
 
 - Tags: Stew, Instant Pot
 - Image: /images/beef-stew-ip.jpg
+- Emoji: 🥘
 - Serves: 8
 
 ## Description

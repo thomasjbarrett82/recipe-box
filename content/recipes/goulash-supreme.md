@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Dutch oven, Minnesota
 - Image: /images/goulash-supreme.jpg
+- Emoji: 🍲
 - Serves: 8
 
 ## Description

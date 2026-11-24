@@ -4,6 +4,7 @@
 
 - Tags: Main, Minnesota, Favorite
 - Image: /images/chicken-broccoli-hotdish.jpg
+- Emoji: 🥦
 - Serves: 6
 
 ## Description

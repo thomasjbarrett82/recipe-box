@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, Holiday, Minnesota
 - Image: /images/scalloped-corn.jpg
+- Emoji: 🌽
 - Serves: 8
 
 ## Description

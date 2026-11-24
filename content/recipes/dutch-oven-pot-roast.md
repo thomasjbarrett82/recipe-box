@@ -4,6 +4,7 @@
 
 - Tags: Main, Dutch oven, High fiber
 - Image: /images/dutch-oven-pot-roast.jpg
+- Emoji: 🥩
 - Serves: 7
 
 ## Description

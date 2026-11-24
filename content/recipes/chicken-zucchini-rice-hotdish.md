@@ -5,6 +5,7 @@
 - Tags: Main, Minnesota
 - Source: All Recipes
 - Image: /images/chicken-zucchini-rice-hotdish.jpg
+- Emoji: 🥒
 - Serves: 8
 
 ## Description

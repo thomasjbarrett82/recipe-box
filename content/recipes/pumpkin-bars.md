@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Image: /images/pumpkin-bars.jpg
+- Emoji: 🎃
 - Serves: 24
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, Holiday
 - Image: /images/stuffing.jpg
+- Emoji: 🍞
 - Serves: 12
 
 ## Description

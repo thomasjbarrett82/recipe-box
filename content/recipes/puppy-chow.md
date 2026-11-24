@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick, Holiday, Minnesota
 - Image: /images/puppy-chow.jpg
+- Emoji: 🐶
 - Serves: 16
 
 ## Description

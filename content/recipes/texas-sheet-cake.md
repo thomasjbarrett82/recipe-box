@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: B. Dylan Hollis
 - Image: /images/texas-sheet-cake.jpg
+- Emoji: 🍫
 - Serves: 24
 
 ## Description

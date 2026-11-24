@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Quick, Vegetarian, Vegan, Favorite
 - Image: /images/guacamole.jpg
+- Emoji: 🥑
 - Serves: 8
 
 ## Description

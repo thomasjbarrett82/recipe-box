@@ -4,6 +4,7 @@
 
 - Tags: Breakfast, Vegetarian, Holiday
 - Image: /images/monkey-bread.jpg
+- Emoji: 🐒
 - Serves: 12
 
 ## Description

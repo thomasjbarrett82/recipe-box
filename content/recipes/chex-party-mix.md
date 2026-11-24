@@ -5,6 +5,7 @@
 - Tags: Appetizer, Quick, Holiday
 - Source: Tara
 - Image: /images/chex-party-mix.jpg
+- Emoji: 🥨
 - Serves: 12
 
 ## Description

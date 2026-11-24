@@ -5,6 +5,7 @@
 - Tags: Main, Quick, Vegetarian, High fiber
 - Source: PlantYou
 - Image: /images/sweet-potato-chickpea-bowl.jpg
+- Emoji: 🍠
 - Serves: 2
 
 ## Description

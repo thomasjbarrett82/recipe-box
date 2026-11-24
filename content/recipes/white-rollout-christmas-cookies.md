@@ -5,6 +5,7 @@
 - Tags: Dessert, Holiday
 - Source: Tara
 - Image: /images/white-rollout-christmas-cookies.jpg
+- Emoji: ⛄
 - Serves: 24
 
 ## Description

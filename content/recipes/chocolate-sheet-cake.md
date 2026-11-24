@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/chocolate-sheet-cake.jpg
+- Emoji: 🍫
 - Serves: 24
 
 ## Description

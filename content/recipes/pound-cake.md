@@ -5,6 +5,7 @@
 - Tags: Dessert
 - Source: @bdylanhollis
 - Image: /images/pound-cake.jpg
+- Emoji: 🍰
 - Serves: 20
 
 ## Description

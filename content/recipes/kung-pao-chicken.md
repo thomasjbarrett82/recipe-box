@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy
 - Image: /images/kung-pao-chicken.jpg
+- Emoji: 🥜
 - Serves: 6
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Main, Minnesota, Favorite
 - Image: /images/tater-tot-hotdish.jpg
+- Emoji: 🥔
 - Serves: 8
 
 ## Description

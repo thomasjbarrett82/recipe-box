@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Image: /images/cut-out-cookies.jpg
+- Emoji: ⭐
 - Serves: 24
 
 ## Description

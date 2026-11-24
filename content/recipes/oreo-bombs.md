@@ -5,6 +5,7 @@
 - Tags: Dessert, Holiday, Favorite
 - Source: Tom
 - Image: /images/oreo-bombs.jpg
+- Emoji: 💣
 - Serves: 30
 
 ## Description

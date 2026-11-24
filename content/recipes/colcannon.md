@@ -5,6 +5,7 @@
 - Tags: Side, Favorite, Vegetarian
 - Source: Spruce Eats
 - Image: /images/colcannon.jpg
+- Emoji: 🥔
 - Serves: 8
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Drink, Quick, Holiday
 - Image: /images/homemade-baileys.jpg
+- Emoji: 🥃
 - Serves: 21
 
 ## Description

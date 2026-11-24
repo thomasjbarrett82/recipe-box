@@ -5,6 +5,7 @@
 - Tags: Appetizer, Quick
 - Source: Tara
 - Image: /images/caramel-popcorn.jpg
+- Emoji: 🍿
 - Serves: 14
 
 ## Description

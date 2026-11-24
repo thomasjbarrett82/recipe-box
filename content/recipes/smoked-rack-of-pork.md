@@ -4,6 +4,7 @@
 
 - Tags: Main, Grill, Smoker, Holiday, Favorite
 - Image: /images/smoked-rack-of-pork.jpg
+- Emoji: 🐖
 - Serves: 1 per rib (usually 8)
 
 ## Description

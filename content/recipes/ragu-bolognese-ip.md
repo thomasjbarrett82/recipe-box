@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Instant Pot
 - Image: /images/ragu-bolognese-ip.jpg
+- Emoji: 🍝
 - Serves: 12
 
 ## Description

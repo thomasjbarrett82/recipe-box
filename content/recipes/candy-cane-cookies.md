@@ -5,6 +5,7 @@
 - Tags: Dessert, Holiday
 - Source: Tara
 - Image: /images/candy-cane-cookies.jpg
+- Emoji: 🍬
 - Serves: 24
 
 ## Description

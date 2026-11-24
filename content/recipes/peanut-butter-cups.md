@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Holiday
 - Image: /images/peanut-butter-cups.jpg
+- Emoji: 🥜
 - Serves: 60
 
 ## Description

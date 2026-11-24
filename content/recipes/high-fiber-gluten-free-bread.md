@@ -5,6 +5,7 @@
 - Tags: Bread, Gluten free
 - Source: hallysdailylife
 - Image: /images/high-fiber-gluten-free-bread.jpg
+- Emoji: 🍞
 - Serves: 12
 
 ## Description

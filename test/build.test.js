@@ -39,7 +39,7 @@ test('builds every page, the search index and the assets', (t) => {
   const index = JSON.parse(read(root, 'search-index.json'));
   assert.equal(index.length, 8);
   assert.deepEqual(Object.keys(index[0]).sort(),
-    ['cardTime', 'description', 'image', 'ingredients', 'slug', 'swatch', 'tags', 'title', 'totalMinutes']);
+    ['cardTime', 'description', 'emoji', 'image', 'ingredients', 'slug', 'swatch', 'tags', 'title', 'totalMinutes']);
 });
 
 test('recipe pages are complete without JavaScript', (t) => {
@@ -140,6 +140,29 @@ test('ingredient groups render as headed checklists', (t) => {
   const html = read(root, 'r/blueberry-buckle/index.html');
   assert.match(html, /<h3 class="ingredient-group">Cake<\/h3>\s*<ul class="ingredient-list">/);
   assert.doesNotMatch(read(root, 'r/wild-rice-soup/index.html'), /ingredient-group/);
+});
+
+test('a recipe emoji is the tab icon and is in the search index; other pages use the RB icon', (t) => {
+  const root = project((dir) => {
+    const g = path.join(dir, 'content', 'recipes', 'blueberry-buckle.md');
+    fs.writeFileSync(g, fs.readFileSync(g, 'utf8').replace('## Recipe Data\n', '## Recipe Data\n\n- Emoji: 🫐'));
+  });
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  build({ root, siteUrl: 'https://recipes.example.org' });
+
+  const icon = (html) => /<link rel="icon" type="image\/svg\+xml" href="([^"]+)">/.exec(html)[1];
+  const buckle = icon(read(root, 'r/blueberry-buckle/index.html'));
+  assert.match(buckle, /^data:image\/svg\+xml,/);
+  assert.match(decodeURIComponent(buckle.slice('data:image/svg+xml,'.length)), /<text [^>]*>🫐<\/text>/);
+
+  for (const rel of ['index.html', '404.html', 'tags/index.html', 'r/wild-rice-soup/index.html']) {
+    assert.match(icon(read(root, rel)), /^\/assets\/favicon\.svg\?v=/, rel);
+  }
+  assert.ok(fs.existsSync(path.join(root, 'dist', 'assets', 'favicon.svg')));
+
+  const index = JSON.parse(read(root, 'search-index.json'));
+  assert.equal(index.find((r) => r.slug === 'blueberry-buckle').emoji, '🫐');
+  assert.equal(index.find((r) => r.slug === 'wild-rice-soup').emoji, '');
 });
 
 test('an invalid site URL is reported', (t) => {

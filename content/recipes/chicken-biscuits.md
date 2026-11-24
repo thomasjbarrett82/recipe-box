@@ -4,6 +4,7 @@
 
 - Tags: Main, Favorite
 - Image: /images/chicken-biscuits.jpg
+- Emoji: 🍗
 - Serves: 6
 
 ## Description

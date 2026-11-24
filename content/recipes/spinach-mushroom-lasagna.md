@@ -5,6 +5,7 @@
 - Tags: Pasta, Vegetarian, Favorite
 - Source: From Rage To Real
 - Image: /images/spinach-mushroom-lasagna.jpg
+- Emoji: 🍄
 - Serves: 8
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy, Dutch oven, High fiber
 - Image: /images/red-beans-and-rice.jpg
+- Emoji: 🫘
 - Serves: 8
 
 ## Description

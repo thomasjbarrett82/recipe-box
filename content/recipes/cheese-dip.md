@@ -4,6 +4,7 @@
 
 - Tags: Appetizer, Slow cooker, Vegetarian
 - Image: /images/cheese-dip.jpg
+- Emoji: 🧀
 - Serves: 24
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Main, Grill, Smoker, Favorite
 - Source: Serious Eats
 - Image: /images/smoked-brisket.jpg
+- Emoji: 🐄
 - Serves: 22
 
 ## Description

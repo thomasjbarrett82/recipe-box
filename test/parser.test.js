@@ -72,6 +72,15 @@ test('optional sections and keys can be left out', () => {
   assert.equal(r.notes, '');
   assert.deepEqual(r.nutrition, []);
   assert.equal(r.servingSize, '');
+  assert.equal(r.emoji, '');
+});
+
+test('emoji: exactly one emoji, including multi-part ones', () => {
+  const withEmoji = (e) => MIN.replace('- Tags: Breakfast', '- Tags: Breakfast\n- Emoji: ' + e);
+  for (const e of ['🍞', '🇸🇪', '👨‍🍳', '👍🏽', '❤️']) assert.equal(parse(withEmoji(e)).emoji, e);
+  throwsLike(withEmoji('🍞🧈'), /toast\.md:6: Emoji must be a single emoji/);
+  throwsLike(withEmoji('bread'), /toast\.md:6: Emoji must be a single emoji/);
+  throwsLike(withEmoji('🍞 toast'), /Emoji must be a single emoji/);
 });
 
 test('section names ignore case and order', () => {

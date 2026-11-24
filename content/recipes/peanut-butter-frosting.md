@@ -4,6 +4,7 @@
 
 - Tags: Dessert, Quick
 - Image: /images/peanut-butter-frosting.jpg
+- Emoji: 🥜
 - Serves: 24
 
 ## Description

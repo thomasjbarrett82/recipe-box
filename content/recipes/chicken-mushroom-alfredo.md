@@ -4,6 +4,7 @@
 
 - Tags: Pasta, Favorite
 - Image: /images/chicken-mushroom-alfredo.jpg
+- Emoji: 🍝
 - Serves: 6
 
 ## Description

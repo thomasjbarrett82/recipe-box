@@ -5,6 +5,7 @@
 - Tags: Appetizer, Holiday
 - Source: Tara
 - Image: /images/cheeseball.jpg
+- Emoji: 🧀
 - Serves: 20
 
 ## Description

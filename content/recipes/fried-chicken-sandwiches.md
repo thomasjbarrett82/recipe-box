@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/fried-chicken-sandwiches.jpg
+- Emoji: 🍔
 - Serves: 4
 
 ## Description

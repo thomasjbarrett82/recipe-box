@@ -4,6 +4,7 @@
 
 - Tags: Side, Vegetarian, High fiber, Holiday
 - Image: /images/candied-yams.jpg
+- Emoji: 🍠
 - Serves: 8
 
 ## Description

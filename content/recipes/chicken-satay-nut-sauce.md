@@ -5,6 +5,7 @@
 - Tags: Main, Grill
 - Source: Anil
 - Image: /images/chicken-satay-nut-sauce.jpg
+- Emoji: 🍢
 - Serves: 6
 
 ## Description

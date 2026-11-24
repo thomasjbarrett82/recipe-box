@@ -4,6 +4,7 @@
 
 - Tags: Bread, Holiday, Minnesota
 - Image: /images/lefse.jpg
+- Emoji: 🥔
 - Serves: 40
 
 ## Description

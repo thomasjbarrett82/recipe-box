@@ -4,6 +4,7 @@
 
 - Tags: Dessert
 - Image: /images/pear-crisp.jpg
+- Emoji: 🍐
 - Serves: 8
 
 ## Description

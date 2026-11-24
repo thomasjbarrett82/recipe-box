@@ -4,6 +4,7 @@
 
 - Tags: Soup, Spicy, High fiber, Favorite
 - Image: /images/chicken-tortilla-soup.jpg
+- Emoji: 🥣
 - Serves: 8
 
 ## Description

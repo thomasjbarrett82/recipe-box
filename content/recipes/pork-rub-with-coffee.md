@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick
 - Image: /images/pork-rub-with-coffee.jpg
+- Emoji: ☕
 - Serves: 12
 
 ## Description

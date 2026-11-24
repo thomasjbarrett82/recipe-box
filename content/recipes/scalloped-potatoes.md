@@ -4,6 +4,7 @@
 
 - Tags: Side, Holiday
 - Image: /images/scalloped-potatoes.jpg
+- Emoji: 🥔
 - Serves: 8
 
 ## Description

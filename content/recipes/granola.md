@@ -5,6 +5,7 @@
 - Tags: Breakfast, Vegetarian
 - Source: Judy Munson
 - Image: /images/granola.jpg
+- Emoji: 🥣
 - Serves: 16
 
 ## Description

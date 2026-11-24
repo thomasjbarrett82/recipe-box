@@ -4,6 +4,7 @@
 
 - Tags: Main, Dutch oven, High fiber
 - Image: /images/pot-roast-fancy.jpg
+- Emoji: 🥩
 - Serves: 6
 
 ## Description

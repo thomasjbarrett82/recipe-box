@@ -5,6 +5,7 @@
 - Tags: Side, Vegetarian, Vegan, Holiday
 - Source: Serious Eats
 - Image: /images/cranberry-sauce.jpg
+- Emoji: 🍒
 - Serves: 9
 
 ## Description

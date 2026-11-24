@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy, Grill, Vegetarian, High fiber
 - Image: /images/portabella-burgers.jpg
+- Emoji: 🍄
 - Serves: 4
 
 ## Description

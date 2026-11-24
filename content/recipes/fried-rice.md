@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick, Vegetarian, Favorite
 - Image: /images/fried-rice.jpg
+- Emoji: 🍳
 - Serves: 3
 
 ## Description

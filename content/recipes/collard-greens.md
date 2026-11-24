@@ -5,6 +5,7 @@
 - Tags: Side, High fiber, Favorite
 - Source: Tom
 - Image: /images/collard-greens.jpg
+- Emoji: 🥬
 - Serves: 4
 
 ## Description

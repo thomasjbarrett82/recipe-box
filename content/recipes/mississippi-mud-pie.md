@@ -5,6 +5,7 @@
 - Tags: Dessert, Favorite
 - Source: Tom
 - Image: /images/mississippi-mud-pie.jpg
+- Emoji: 🥧
 - Serves: 12
 
 ## Description

@@ -4,6 +4,7 @@
 
 - Tags: Side, Holiday, Minnesota, Favorite
 - Image: /images/hash-brown-casserole.jpg
+- Emoji: 🥔
 - Serves: 12
 
 ## Description

@@ -5,6 +5,7 @@
 - Tags: Bread
 - Source: @bdylanhollis
 - Image: /images/peanut-butter-bread.jpg
+- Emoji: 🥜
 - Serves: 10
 
 ## Description

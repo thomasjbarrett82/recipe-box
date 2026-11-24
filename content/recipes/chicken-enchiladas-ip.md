@@ -4,6 +4,7 @@
 
 - Tags: Main, Spicy, Instant Pot
 - Image: /images/chicken-enchiladas-ip.jpg
+- Emoji: 🌯
 - Serves: 7
 
 ## Description

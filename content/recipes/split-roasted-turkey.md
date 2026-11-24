@@ -5,6 +5,7 @@
 - Tags: Main, Holiday
 - Source: Epicurious
 - Image: /images/split-roasted-turkey.jpg
+- Emoji: 🦃
 - Serves: 17
 
 ## Description

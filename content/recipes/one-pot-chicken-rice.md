@@ -4,6 +4,7 @@
 
 - Tags: Main
 - Image: /images/one-pot-chicken-rice.jpg
+- Emoji: 🍗
 - Serves: 5
 
 ## Description

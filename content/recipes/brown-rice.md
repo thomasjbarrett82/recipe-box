@@ -4,6 +4,7 @@
 
 - Tags: Side, Instant Pot, Vegetarian, Vegan
 - Image: /images/brown-rice.jpg
+- Emoji: 🍚
 - Serves: 4
 
 ## Description

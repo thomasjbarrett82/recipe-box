@@ -5,6 +5,7 @@
 - Tags: Main, Quick, High fiber, Favorite
 - Source: Instagram
 - Image: /images/sushi-bowl.jpg
+- Emoji: 🍣
 - Serves: 2
 
 ## Description

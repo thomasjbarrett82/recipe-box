@@ -4,6 +4,7 @@
 
 - Tags: Main, Quick
 - Image: /images/chicken-stir-fry.jpg
+- Emoji: 🥢
 - Serves: 6
 
 ## Description

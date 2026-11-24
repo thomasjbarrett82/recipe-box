@@ -5,6 +5,7 @@
 - Tags: Side
 - Source: copykat
 - Image: /images/raising-canes-sauce.jpg
+- Emoji: 🍗
 - Serves: 13
 
 ## Description

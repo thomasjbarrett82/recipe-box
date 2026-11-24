@@ -4,6 +4,7 @@
 
 - Tags: Soup, Slow cooker, High fiber
 - Image: /images/minestrone.jpg
+- Emoji: 🥣
 - Serves: 5
 
 ## Description

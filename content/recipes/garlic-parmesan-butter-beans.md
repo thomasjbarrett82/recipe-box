@@ -5,6 +5,7 @@
 - Tags: Side, Quick, Vegetarian, Favorite
 - Source: Tom
 - Image: /images/garlic-parmesan-butter-beans.jpg
+- Emoji: 🫘
 - Serves: 6
 
 ## Description

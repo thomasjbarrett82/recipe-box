@@ -4,6 +4,7 @@
 
 - Tags: Main, Slow cooker, High fiber, Favorite
 - Image: /images/reuben-sandwiches.jpg
+- Emoji: 🥪
 - Serves: 4
 
 ## Description

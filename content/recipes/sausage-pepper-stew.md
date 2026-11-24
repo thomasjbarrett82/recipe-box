@@ -4,6 +4,7 @@
 
 - Tags: Stew
 - Image: /images/sausage-pepper-stew.jpg
+- Emoji: 🫑
 - Serves: 6
 
 ## Description
